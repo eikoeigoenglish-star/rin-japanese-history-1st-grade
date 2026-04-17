@@ -275,5 +275,62 @@
       { "label": "A", "answer": "天皇" },
       { "label": "B", "answer": "後継者" }
     ]
-  }
+  },
+  { "id": "g1-2016-01", "year": 2016, "questionNumber": 1, "type": "choice", "image": "images/g1-2016-01.png", "answer": "1" },
+  { "id": "g1-2016-02", "year": 2016, "questionNumber": 2, "type": "choice", "image": "images/g1-2016-02.png", "answer": "2" },
+  { "id": "g1-2016-03", "year": 2016, "questionNumber": 3, "type": "choice", "image": "images/g1-2016-03.png", "answer": "2" },
+  { "id": "g1-2016-04", "year": 2016, "questionNumber": 4, "type": "choice", "image": "images/g1-2016-04.png", "answer": "2" },
+  { "id": "g1-2016-05", "year": 2016, "questionNumber": 5, "type": "choice", "image": "images/g1-2016-05.png", "answer": "4" },
+  { "id": "g1-2016-06", "year": 2016, "questionNumber": 6, "type": "choice", "image": "images/g1-2016-06.png", "answer": "3" },
+  { "id": "g1-2016-07", "year": 2016, "questionNumber": 7, "type": "choice", "image": "images/g1-2016-07.png", "answer": "3" },
+  { "id": "g1-2016-08", "year": 2016, "questionNumber": 8, "type": "choice", "image": "images/g1-2016-08.png", "answer": "1" },
+  { "id": "g1-2016-09", "year": 2016, "questionNumber": 9, "type": "choice", "image": "images/g1-2016-09.png", "answer": "1" },
+  { "id": "g1-2016-10", "year": 2016, "questionNumber": 10, "type": "choice", "image": "images/g1-2016-10.png", "answer": "1" },
+  { "id": "g1-2016-11", "year": 2016, "questionNumber": 11, "type": "choice", "image": "images/g1-2016-11.png", "answer": "3" },
+  { "id": "g1-2016-12", "year": 2016, "questionNumber": 12, "type": "choice", "image": "images/g1-2016-12.png", "answer": "4" },
+  { "id": "g1-2016-13", "year": 2016, "questionNumber": 13, "type": "choice", "image": "images/g1-2016-13.png", "answer": "3" },
+  { "id": "g1-2016-14", "year": 2016, "questionNumber": 14, "type": "choice", "image": "images/g1-2016-14.png", "answer": "2" },
+  { "id": "g1-2016-15", "year": 2016, "questionNumber": 15, "type": "choice", "image": "images/g1-2016-15.png", "answer": "4" },
+  { "id": "g1-2016-16", "year": 2016, "questionNumber": 16, "type": "choice", "image": "images/g1-2016-16.png", "answer": "4" },
+  { "id": "g1-2016-17", "year": 2016, "questionNumber": 17, "type": "choice", "image": "images/g1-2016-17.png", "answer": "3" },
+  { "id": "g1-2016-18", "year": 2016, "questionNumber": 18, "type": "choice", "image": "images/g1-2016-18.png", "answer": "4" },
+  { "id": "g1-2016-19", "year": 2016, "questionNumber": 19, "type": "choice", "image": "images/g1-2016-19.png", "answer": "3" },
+  { "id": "g1-2016-20", "year": 2016, "questionNumber": 20, "type": "choice", "image": "images/g1-2016-20.png", "answer": "1" },
+  { "id": "g1-2016-21", "year": 2016, "questionNumber": 21, "type": "short", "image": "images/g1-2016-21.png", "answer": "石匙" },
+  { "id": "g1-2016-22", "year": 2016, "questionNumber": 22, "type": "short", "image": "images/g1-2016-22.png", "answer": "再葬墓" },
+  {
+    "id": "g1-2016-23",
+    "year": 2016,
+    "questionNumber": 23,
+    "type": "cloze",
+    "image": "images/g1-2016-23.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]の徳政一揆と[B]の徳政一揆は、ともに[C]の代始めを機に発生したが、前者は実力による債務破棄など[D]が展開されたのに対し、後者は[E]により徳政令が出された。",
+    "blanks": [
+      { "label": "A", "answer": "正長" },
+      { "label": "B", "answer": "嘉吉" },
+      { "label": "C", "answer": "将軍" },
+      { "label": "D", "answer": "私徳政" },
+      { "label": "E", "answer": "幕府" }
+    ]
+  },
+  { "id": "g1-2016-24", "year": 2016, "questionNumber": 24, "type": "short", "image": "images/g1-2016-24.png", "answer": "傘連判" },
+  { "id": "g1-2016-25", "year": 2016, "questionNumber": 25, "type": "short", "image": "images/g1-2016-25.png", "answer": "一味神水" },
+  { "id": "g1-2016-26", "year": 2016, "questionNumber": 26, "type": "short", "image": "images/g1-2016-26.png", "answer": "李参平" },
+  { "id": "g1-2016-27", "year": 2016, "questionNumber": 27, "type": "short", "image": "images/g1-2016-27.png", "answer": "別段風説書" },
+  {
+    "id": "g1-2016-28",
+    "year": 2016,
+    "questionNumber": 28,
+    "type": "cloze",
+    "image": "images/g1-2016-28.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]警備の任務を担う佐賀藩は、早くから外圧を認識して、防衛強化に着手しており、反射炉建造費には[B]の専売で得た利益が、建造の技術には[B]生産の技術が貢献した。",
+    "blanks": [
+      { "label": "A", "answer": "長崎" },
+      { "label": "B", "answer": "陶磁器" }
+    ]
+  },
+  { "id": "g1-2016-29", "year": 2016, "questionNumber": 29, "type": "short", "image": "images/g1-2016-29.png", "answer": "平民宰相" },
+  { "id": "g1-2016-30", "year": 2016, "questionNumber": 30, "type": "short", "image": "images/g1-2016-30.png", "answer": "研究会" }
 ]
