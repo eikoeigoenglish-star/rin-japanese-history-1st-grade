@@ -200,3 +200,65 @@ h2, h4, h5 {
   font-size: 2.2rem;
   font-weight: 700;
 }
+
+/* =========================
+   選択ボタンUI
+========================= */
+.option-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.option-group input[type="radio"] {
+  display: none;
+}
+
+.option-group label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 48px;
+  padding: 10px 16px;
+  border: 1px solid #4a4f57;
+  border-radius: 10px;
+  background-color: #2a2f36;
+  color: #e0e0e0;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-weight: 600;
+  user-select: none;
+}
+
+.option-group label:hover {
+  background-color: #353b44;
+  border-color: #6b7280;
+}
+
+.option-group input[type="radio"]:checked + label {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  color: #ffffff;
+  box-shadow: 0 0 0 2px rgba(13, 110, 253, 0.25);
+}
+
+.option-group-years label {
+  min-width: 96px;
+}
+
+.option-group-formats {
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.option-group-formats label {
+  width: 100%;
+  justify-content: flex-start;
+}
+
+@media (max-width: 768px) {
+  .option-group-years label,
+  .option-group-formats label {
+    width: 100%;
+  }
+}
