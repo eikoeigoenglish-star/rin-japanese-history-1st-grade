@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g1-2017-07",
+    "year": 2017,
+    "questionNumber": 7,
+    "type": "choice",
+    "image": "images/g1-2017-07.png",
+    "answer": "4"
+  },
+
+  {
+    "id": "g1-2012-05",
+    "year": 2012,
+    "questionNumber": 5,
+    "type": "short",
+    "image": "images/g1-2012-05.png",
+    "answer": "信牌"
+  },
+
+  {
+    "id": "g1-2020-29",
+    "year": 2020,
+    "questionNumber": 29,
+    "type": "cloze",
+    "image": "images/g1-2020-29.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "1950年代に[A]戦争の勃発に伴う[B]景気や[C]景気・[D]景気が、60年代にはオリンピック景気が到来し、当時は[E]戦争の特需などに伴う[F]景気のさなかにあった。",
+    "blanks": [
+      { "label": "A", "answer": "朝鮮" },
+      { "label": "B", "answer": "特需" },
+      { "label": "C", "answer": "神武" },
+      { "label": "D", "answer": "岩戸" },
+      { "label": "E", "answer": "ベトナム" },
+      { "label": "F", "answer": "いざなぎ" }
+    ]
+  }
+
+]
