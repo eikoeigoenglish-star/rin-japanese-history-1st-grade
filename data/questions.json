@@ -332,5 +332,62 @@
     ]
   },
   { "id": "g1-2016-29", "year": 2016, "questionNumber": 29, "type": "short", "image": "images/g1-2016-29.png", "answer": "平民宰相" },
-  { "id": "g1-2016-30", "year": 2016, "questionNumber": 30, "type": "short", "image": "images/g1-2016-30.png", "answer": "研究会" }
+  { "id": "g1-2016-30", "year": 2016, "questionNumber": 30, "type": "short", "image": "images/g1-2016-30.png", "answer": "研究会" },
+  { "id": "g1-2017-01", "year": 2017, "questionNumber": 1, "type": "choice", "image": "images/g1-2017-01.png", "answer": "2" },
+  { "id": "g1-2017-02", "year": 2017, "questionNumber": 2, "type": "choice", "image": "images/g1-2017-02.png", "answer": "3" },
+  { "id": "g1-2017-03", "year": 2017, "questionNumber": 3, "type": "choice", "image": "images/g1-2017-03.png", "answer": "4" },
+  { "id": "g1-2017-04", "year": 2017, "questionNumber": 4, "type": "choice", "image": "images/g1-2017-04.png", "answer": "4" },
+  { "id": "g1-2017-05", "year": 2017, "questionNumber": 5, "type": "choice", "image": "images/g1-2017-05.png", "answer": "3" },
+  { "id": "g1-2017-06", "year": 2017, "questionNumber": 6, "type": "choice", "image": "images/g1-2017-06.png", "answer": "3" },
+  { "id": "g1-2017-07", "year": 2017, "questionNumber": 7, "type": "choice", "image": "images/g1-2017-07.png", "answer": "4" },
+  { "id": "g1-2017-08", "year": 2017, "questionNumber": 8, "type": "choice", "image": "images/g1-2017-08.png", "answer": "2" },
+  { "id": "g1-2017-09", "year": 2017, "questionNumber": 9, "type": "choice", "image": "images/g1-2017-09.png", "answer": "3" },
+  { "id": "g1-2017-10", "year": 2017, "questionNumber": 10, "type": "choice", "image": "images/g1-2017-10.png", "answer": "4" },
+  { "id": "g1-2017-11", "year": 2017, "questionNumber": 11, "type": "choice", "image": "images/g1-2017-11.png", "answer": "3" },
+  { "id": "g1-2017-12", "year": 2017, "questionNumber": 12, "type": "choice", "image": "images/g1-2017-12.png", "answer": "2" },
+  { "id": "g1-2017-13", "year": 2017, "questionNumber": 13, "type": "choice", "image": "images/g1-2017-13.png", "answer": "1" },
+  { "id": "g1-2017-14", "year": 2017, "questionNumber": 14, "type": "choice", "image": "images/g1-2017-14.png", "answer": "3" },
+  { "id": "g1-2017-15", "year": 2017, "questionNumber": 15, "type": "choice", "image": "images/g1-2017-15.png", "answer": "3" },
+  { "id": "g1-2017-16", "year": 2017, "questionNumber": 16, "type": "choice", "image": "images/g1-2017-16.png", "answer": "1" },
+  { "id": "g1-2017-17", "year": 2017, "questionNumber": 17, "type": "choice", "image": "images/g1-2017-17.png", "answer": "2" },
+  { "id": "g1-2017-18", "year": 2017, "questionNumber": 18, "type": "choice", "image": "images/g1-2017-18.png", "answer": "3" },
+  { "id": "g1-2017-19", "year": 2017, "questionNumber": 19, "type": "choice", "image": "images/g1-2017-19.png", "answer": "4" },
+  { "id": "g1-2017-20", "year": 2017, "questionNumber": 20, "type": "choice", "image": "images/g1-2017-20.png", "answer": "4" },
+  { "id": "g1-2017-21", "year": 2017, "questionNumber": 21, "type": "short", "image": "images/g1-2017-21.png", "answer": "上野原遺跡" },
+  {
+    "id": "g1-2017-22",
+    "year": 2017,
+    "questionNumber": 22,
+    "type": "cloze",
+    "image": "images/g1-2017-22.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "熊本県[A]古墳鉄刀銘と埼玉県[B]古墳鉄剣銘に、[C]天皇と同一人物とされるワカタケル大王の名が記されており、九州から関東まで勢力を及ぼしていたことがわかる。",
+    "blanks": [
+      { "label": "A", "answer": "江田船山" },
+      { "label": "B", "answer": "稲荷山" },
+      { "label": "C", "answer": "雄略" }
+    ]
+  },
+  { "id": "g1-2017-23", "year": 2017, "questionNumber": 23, "type": "short", "image": "images/g1-2017-23.png", "answer": "遣唐使" },
+  { "id": "g1-2017-24", "year": 2017, "questionNumber": 24, "type": "short", "image": "images/g1-2017-24.png", "answer": "永仁の徳政令" },
+  { "id": "g1-2017-25", "year": 2017, "questionNumber": 25, "type": "short", "image": "images/g1-2017-25.png", "answer": "明応の政変" },
+  { "id": "g1-2017-26", "year": 2017, "questionNumber": 26, "type": "short", "image": "images/g1-2017-26.png", "answer": "松尾芭蕉" },
+  { "id": "g1-2017-27", "year": 2017, "questionNumber": 27, "type": "short", "image": "images/g1-2017-27.png", "answer": "彰考館" },
+  { "id": "g1-2017-28", "year": 2017, "questionNumber": 28, "type": "short", "image": "images/g1-2017-28.png", "answer": "会計官" },
+  { "id": "g1-2017-29", "year": 2017, "questionNumber": 29, "type": "short", "image": "images/g1-2017-29.png", "answer": "新感覚派" },
+  {
+    "id": "g1-2017-30",
+    "year": 2017,
+    "questionNumber": 30,
+    "type": "cloze",
+    "image": "images/g1-2017-30.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "1950年代に[A]戦争の勃発に伴う特需景気や[B]景気・岩戸景気が、60年代にはオリンピック景気が到来し、当時は[C]戦争の特需などに伴う[D]景気のさなかにあった。",
+    "blanks": [
+      { "label": "A", "answer": "朝鮮" },
+      { "label": "B", "answer": "神武" },
+      { "label": "C", "answer": "ベトナム" },
+      { "label": "D", "answer": "いざなぎ" }
+    ]
+  }
 ]
