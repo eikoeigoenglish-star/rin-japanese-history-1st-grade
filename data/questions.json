@@ -59,7 +59,6 @@
       { "label": "B", "answer": "内閣" }  
     ]
   },
-  ,
   { "id": "g1-2009-01", "year": 2009, "questionNumber": 1, "type": "choice", "image": "images/g1-2009-01.png", "answer": "3" },
   { "id": "g1-2009-02", "year": 2009, "questionNumber": 2, "type": "choice", "image": "images/g1-2009-02.png", "answer": "3" },
   { "id": "g1-2009-03", "year": 2009, "questionNumber": 3, "type": "choice", "image": "images/g1-2009-03.png", "answer": "4" },
