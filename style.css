@@ -146,3 +146,19 @@ h2, h4, h5 {
   font-weight: bold;
   text-align: center;
 }
+
+.result-image-pc {
+  max-width: 420px;
+  display: block;
+  border-radius: 8px;
+  margin-top: 8px;
+}
+
+.result-image-mobile {
+  border-radius: 8px;
+  background-color: #000;
+}
+
+#back-to-start-btn {
+  min-width: 220px;
+}
