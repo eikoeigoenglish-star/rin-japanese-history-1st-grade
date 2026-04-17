@@ -1,0 +1,148 @@
+/* =========================
+   ベース（ダーク固定）
+========================= */
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* =========================
+   カード
+========================= */
+.card {
+  border: none;
+  border-radius: 12px;
+}
+
+.card-body {
+  padding: 1.2rem;
+}
+
+/* =========================
+   問題画像
+========================= */
+#question-image {
+  border-radius: 8px;
+  background-color: #000;
+}
+
+/* =========================
+   ボタン（タップしやすく）
+========================= */
+button {
+  border-radius: 10px !important;
+}
+
+/* 4択ボタン */
+.btn-outline-light {
+  border-width: 2px;
+  font-size: 1.2rem;
+}
+
+/* 選択状態 */
+.btn-light {
+  background-color: #ffffff !important;
+  color: #000 !important;
+  font-weight: bold;
+}
+
+/* 次へボタン */
+#next-btn {
+  font-size: 1.1rem;
+  padding: 12px;
+}
+
+/* =========================
+   入力欄（記述・論述）
+========================= */
+input.form-control {
+  background-color: #1e1e1e;
+  color: #fff;
+  border: 1px solid #444;
+}
+
+input.form-control:focus {
+  background-color: #1e1e1e;
+  color: #fff;
+  border-color: #888;
+  box-shadow: none;
+}
+
+/* ラベル（A, B, C...） */
+label {
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+/* =========================
+   結果画面（PCテーブル）
+========================= */
+.table {
+  font-size: 0.9rem;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+}
+
+/* =========================
+   結果カード（スマホ）
+========================= */
+#result-cards .card {
+  border: 1px solid #333;
+}
+
+/* 正解 */
+.correct {
+  color: #4caf50;
+  font-weight: bold;
+}
+
+/* 不正解 */
+.incorrect {
+  color: #f44336;
+  font-weight: bold;
+}
+
+/* =========================
+   見出し
+========================= */
+h2, h4, h5 {
+  font-weight: 600;
+}
+
+/* =========================
+   余白調整（スマホ）
+========================= */
+@media (max-width: 768px) {
+  .container {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .card-body {
+    padding: 1rem;
+  }
+
+  #question-image {
+    margin-bottom: 12px;
+  }
+}
+
+/* =========================
+   論述テキスト
+========================= */
+#cloze-text {
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+/* =========================
+   スコア表示
+========================= */
+#score {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+}
