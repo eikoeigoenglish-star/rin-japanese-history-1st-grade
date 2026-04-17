@@ -118,5 +118,66 @@
   },
 
   { "id": "g1-2009-29", "year": 2009, "questionNumber": 29, "type": "short", "image": "images/g1-2009-29.png", "answer": "時局匡救" },
-  { "id": "g1-2009-30", "year": 2009, "questionNumber": 30, "type": "short", "image": "images/g1-2009-30.png", "answer": "理化学研究所" }
+  { "id": "g1-2009-30", "year": 2009, "questionNumber": 30, "type": "short", "image": "images/g1-2009-30.png", "answer": "理化学研究所" },
+  ,
+  { "id": "g1-2010-01", "year": 2010, "questionNumber": 1, "type": "choice", "image": "images/g1-2010-01.png", "answer": "4" },
+  { "id": "g1-2010-02", "year": 2010, "questionNumber": 2, "type": "choice", "image": "images/g1-2010-02.png", "answer": "1" },
+  { "id": "g1-2010-03", "year": 2010, "questionNumber": 3, "type": "choice", "image": "images/g1-2010-03.png", "answer": "3" },
+  { "id": "g1-2010-04", "year": 2010, "questionNumber": 4, "type": "choice", "image": "images/g1-2010-04.png", "answer": "1" },
+  { "id": "g1-2010-05", "year": 2010, "questionNumber": 5, "type": "choice", "image": "images/g1-2010-05.png", "answer": "2" },
+  { "id": "g1-2010-06", "year": 2010, "questionNumber": 6, "type": "choice", "image": "images/g1-2010-06.png", "answer": "4" },
+  { "id": "g1-2010-07", "year": 2010, "questionNumber": 7, "type": "choice", "image": "images/g1-2010-07.png", "answer": "1" },
+  { "id": "g1-2010-08", "year": 2010, "questionNumber": 8, "type": "choice", "image": "images/g1-2010-08.png", "answer": "3" },
+  { "id": "g1-2010-09", "year": 2010, "questionNumber": 9, "type": "choice", "image": "images/g1-2010-09.png", "answer": "3" },
+  { "id": "g1-2010-10", "year": 2010, "questionNumber": 10, "type": "choice", "image": "images/g1-2010-10.png", "answer": "4" },
+
+  { "id": "g1-2010-11", "year": 2010, "questionNumber": 11, "type": "choice", "image": "images/g1-2010-11.png", "answer": "2" },
+  { "id": "g1-2010-12", "year": 2010, "questionNumber": 12, "type": "choice", "image": "images/g1-2010-12.png", "answer": "1" },
+  { "id": "g1-2010-13", "year": 2010, "questionNumber": 13, "type": "choice", "image": "images/g1-2010-13.png", "answer": "2" },
+  { "id": "g1-2010-14", "year": 2010, "questionNumber": 14, "type": "choice", "image": "images/g1-2010-14.png", "answer": "1" },
+  { "id": "g1-2010-15", "year": 2010, "questionNumber": 15, "type": "choice", "image": "images/g1-2010-15.png", "answer": "3" },
+  { "id": "g1-2010-16", "year": 2010, "questionNumber": 16, "type": "choice", "image": "images/g1-2010-16.png", "answer": "3" },
+  { "id": "g1-2010-17", "year": 2010, "questionNumber": 17, "type": "choice", "image": "images/g1-2010-17.png", "answer": "2" },
+  { "id": "g1-2010-18", "year": 2010, "questionNumber": 18, "type": "choice", "image": "images/g1-2010-18.png", "answer": "4" },
+  { "id": "g1-2010-19", "year": 2010, "questionNumber": 19, "type": "choice", "image": "images/g1-2010-19.png", "answer": "3" },
+  { "id": "g1-2010-20", "year": 2010, "questionNumber": 20, "type": "choice", "image": "images/g1-2010-20.png", "answer": "4" },
+
+  { "id": "g1-2010-21", "year": 2010, "questionNumber": 21, "type": "short", "image": "images/g1-2010-21.png", "answer": "蘇我倉山田石川麻呂" },
+  { "id": "g1-2010-22", "year": 2010, "questionNumber": 22, "type": "short", "image": "images/g1-2010-22.png", "answer": "一品" },
+  { "id": "g1-2010-23", "year": 2010, "questionNumber": 23, "type": "short", "image": "images/g1-2010-23.png", "answer": "重源" },
+
+  {
+    "id": "g1-2010-24",
+    "year": 2010,
+    "questionNumber": 24,
+    "type": "cloze",
+    "image": "images/g1-2010-24.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]では、荘園管理を一任された地頭が一定額の年貢納入を請け負うことになり、[B]では、荘園領主と地頭が土地そのものを折半し、それぞれの支配権を認めあった。",
+    "blanks": [
+      { "label": "A", "answer": "地頭請所" },
+      { "label": "B", "answer": "下地中分" }
+    ]
+  },
+
+  { "id": "g1-2010-25", "year": 2010, "questionNumber": 25, "type": "short", "image": "images/g1-2010-25.png", "answer": "三善康信" },
+  { "id": "g1-2010-26", "year": 2010, "questionNumber": 26, "type": "short", "image": "images/g1-2010-26.png", "answer": "日蓮宗不受不施派" },
+  { "id": "g1-2010-27", "year": 2010, "questionNumber": 27, "type": "short", "image": "images/g1-2010-27.png", "answer": "徳川綱吉" },
+  { "id": "g1-2010-28", "year": 2010, "questionNumber": 28, "type": "short", "image": "images/g1-2010-28.png", "answer": "伊東巳代治" },
+  { "id": "g1-2010-29", "year": 2010, "questionNumber": 29, "type": "short", "image": "images/g1-2010-29.png", "answer": "満州重工業開発会社" },
+
+  {
+    "id": "g1-2010-30",
+    "year": 2010,
+    "questionNumber": 30,
+    "type": "cloze",
+    "image": "images/g1-2010-30.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "都心と近郊とを結ぶ郊外[A]の発達を背景に、郊外から通勤するサラリーマンが増加し、沿線に和洋折衷の[B]が建設され、各ターミナル駅では[C]の開業もあいついだ。",
+    "blanks": [
+      { "label": "A", "answer": "郊外電車" },
+      { "label": "B", "answer": "文化住宅" },
+      { "label": "C", "answer": "百貨店" }
+    ]
+  }
 ]
