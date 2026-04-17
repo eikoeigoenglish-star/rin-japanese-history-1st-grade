@@ -240,5 +240,62 @@
   },
 
   { "id": "g1-2011-29", "year": 2011, "questionNumber": 29, "type": "short", "image": "images/g1-2011-29.png", "answer": "内需" },
-  { "id": "g1-2011-30", "year": 2011, "questionNumber": 30, "type": "short", "image": "images/g1-2011-30.png", "answer": "西ドイツ" }
+  { "id": "g1-2011-30", "year": 2011, "questionNumber": 30, "type": "short", "image": "images/g1-2011-30.png", "answer": "西ドイツ" },
+  ,
+  { "id": "g1-2012-01", "year": 2012, "questionNumber": 1, "type": "choice", "image": "images/g1-2012-01.png", "answer": "4" },
+  { "id": "g1-2012-02", "year": 2012, "questionNumber": 2, "type": "choice", "image": "images/g1-2012-02.png", "answer": "1" },
+  { "id": "g1-2012-03", "year": 2012, "questionNumber": 3, "type": "choice", "image": "images/g1-2012-03.png", "answer": "4" },
+  { "id": "g1-2012-04", "year": 2012, "questionNumber": 4, "type": "choice", "image": "images/g1-2012-04.png", "answer": "1" },
+  { "id": "g1-2012-05", "year": 2012, "questionNumber": 5, "type": "choice", "image": "images/g1-2012-05.png", "answer": "2" },
+  { "id": "g1-2012-06", "year": 2012, "questionNumber": 6, "type": "choice", "image": "images/g1-2012-06.png", "answer": "1" },
+  { "id": "g1-2012-07", "year": 2012, "questionNumber": 7, "type": "choice", "image": "images/g1-2012-07.png", "answer": "4" },
+  { "id": "g1-2012-08", "year": 2012, "questionNumber": 8, "type": "choice", "image": "images/g1-2012-08.png", "answer": "2" },
+  { "id": "g1-2012-09", "year": 2012, "questionNumber": 9, "type": "choice", "image": "images/g1-2012-09.png", "answer": "3" },
+  { "id": "g1-2012-10", "year": 2012, "questionNumber": 10, "type": "choice", "image": "images/g1-2012-10.png", "answer": "1" },
+  { "id": "g1-2012-11", "year": 2012, "questionNumber": 11, "type": "choice", "image": "images/g1-2012-11.png", "answer": "3" },
+  { "id": "g1-2012-12", "year": 2012, "questionNumber": 12, "type": "choice", "image": "images/g1-2012-12.png", "answer": "2" },
+  { "id": "g1-2012-13", "year": 2012, "questionNumber": 13, "type": "choice", "image": "images/g1-2012-13.png", "answer": "2" },
+  { "id": "g1-2012-14", "year": 2012, "questionNumber": 14, "type": "choice", "image": "images/g1-2012-14.png", "answer": "3" },
+  { "id": "g1-2012-15", "year": 2012, "questionNumber": 15, "type": "choice", "image": "images/g1-2012-15.png", "answer": "3" },
+  { "id": "g1-2012-16", "year": 2012, "questionNumber": 16, "type": "choice", "image": "images/g1-2012-16.png", "answer": "2" },
+  { "id": "g1-2012-17", "year": 2012, "questionNumber": 17, "type": "choice", "image": "images/g1-2012-17.png", "answer": "1" },
+  { "id": "g1-2012-18", "year": 2012, "questionNumber": 18, "type": "choice", "image": "images/g1-2012-18.png", "answer": "3" },
+  { "id": "g1-2012-19", "year": 2012, "questionNumber": 19, "type": "choice", "image": "images/g1-2012-19.png", "answer": "2" },
+  { "id": "g1-2012-20", "year": 2012, "questionNumber": 20, "type": "choice", "image": "images/g1-2012-20.png", "answer": "3" },
+  { "id": "g1-2012-21", "year": 2012, "questionNumber": 21, "type": "short", "image": "images/g1-2012-21.png", "answer": "清原夏野" },
+  {
+    "id": "g1-2012-22",
+    "year": 2012,
+    "questionNumber": 22,
+    "type": "cloze",
+    "image": "images/g1-2012-22.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "戸籍は[A]のため人民を登録した台帳で、[B]年ごとに作成、[C]年間保存された。計帳は調庸徴収のための台帳で、毎年作成、[D]的特徴も記された。",
+    "blanks": [
+      { "label": "A", "answer": "班田収授" },
+      { "label": "B", "answer": "6" },
+      { "label": "C", "answer": "30" },
+      { "label": "D", "answer": "身体" }
+    ]
+  },
+  { "id": "g1-2012-23", "year": 2012, "questionNumber": 23, "type": "short", "image": "images/g1-2012-23.png", "answer": "延喜" },
+  { "id": "g1-2012-24", "year": 2012, "questionNumber": 24, "type": "short", "image": "images/g1-2012-24.png", "answer": "李成桂" },
+  { "id": "g1-2012-25", "year": 2012, "questionNumber": 25, "type": "short", "image": "images/g1-2012-25.png", "answer": "三別抄" },
+  { "id": "g1-2012-26", "year": 2012, "questionNumber": 26, "type": "short", "image": "images/g1-2012-26.png", "answer": "伊達宗城" },
+  { "id": "g1-2012-27", "year": 2012, "questionNumber": 27, "type": "short", "image": "images/g1-2012-27.png", "answer": "コレジオ" },
+  { "id": "g1-2012-28", "year": 2012, "questionNumber": 28, "type": "short", "image": "images/g1-2012-28.png", "answer": "段祺瑞" },
+  { "id": "g1-2012-29", "year": 2012, "questionNumber": 29, "type": "short", "image": "images/g1-2012-29.png", "answer": "中岡艮一" },
+  {
+    "id": "g1-2012-30",
+    "year": 2012,
+    "questionNumber": 30,
+    "type": "cloze",
+    "image": "images/g1-2012-30.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "元老は政界の最上層に位置し、[A]の諮問に応じて国政の重要事項をめぐる判断と[B]の選定にあたることで政権の背後から政治的影響力を行使した。",
+    "blanks": [
+      { "label": "A", "answer": "天皇" },
+      { "label": "B", "answer": "後継者" }
+    ]
+  }
 ]
