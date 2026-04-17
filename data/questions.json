@@ -563,5 +563,60 @@
   },
   { "id": "g1-2020-28", "year": 2020, "questionNumber": 28, "type": "short", "image": "images/g1-2020-28.png", "answer": "赤蝦夷風説考" },
   { "id": "g1-2020-29", "year": 2020, "questionNumber": 29, "type": "short", "image": "images/g1-2020-29.png", "answer": "横浜正金銀行" },
-  { "id": "g1-2020-30", "year": 2020, "questionNumber": 30, "type": "short", "image": "images/g1-2020-30.png", "answer": "幣原喜重郎" }
+  { "id": "g1-2020-30", "year": 2020, "questionNumber": 30, "type": "short", "image": "images/g1-2020-30.png", "answer": "幣原喜重郎" },
+  { "id": "g1-2021-01", "year": 2021, "questionNumber": 1, "type": "choice", "image": "images/g1-2021-01.png", "answer": "2" },
+  { "id": "g1-2021-02", "year": 2021, "questionNumber": 2, "type": "choice", "image": "images/g1-2021-02.png", "answer": "2" },
+  { "id": "g1-2021-03", "year": 2021, "questionNumber": 3, "type": "choice", "image": "images/g1-2021-03.png", "answer": "1" },
+  { "id": "g1-2021-04", "year": 2021, "questionNumber": 4, "type": "choice", "image": "images/g1-2021-04.png", "answer": "3" },
+  { "id": "g1-2021-05", "year": 2021, "questionNumber": 5, "type": "choice", "image": "images/g1-2021-05.png", "answer": "4" },
+  { "id": "g1-2021-06", "year": 2021, "questionNumber": 6, "type": "choice", "image": "images/g1-2021-06.png", "answer": "3" },
+  { "id": "g1-2021-07", "year": 2021, "questionNumber": 7, "type": "choice", "image": "images/g1-2021-07.png", "answer": "3" },
+  { "id": "g1-2021-08", "year": 2021, "questionNumber": 8, "type": "choice", "image": "images/g1-2021-08.png", "answer": "1" },
+  { "id": "g1-2021-09", "year": 2021, "questionNumber": 9, "type": "choice", "image": "images/g1-2021-09.png", "answer": "1" },
+  { "id": "g1-2021-10", "year": 2021, "questionNumber": 10, "type": "choice", "image": "images/g1-2021-10.png", "answer": "2" },
+  { "id": "g1-2021-11", "year": 2021, "questionNumber": 11, "type": "choice", "image": "images/g1-2021-11.png", "answer": "3" },
+  { "id": "g1-2021-12", "year": 2021, "questionNumber": 12, "type": "choice", "image": "images/g1-2021-12.png", "answer": "1" },
+  { "id": "g1-2021-13", "year": 2021, "questionNumber": 13, "type": "choice", "image": "images/g1-2021-13.png", "answer": "4" },
+  { "id": "g1-2021-14", "year": 2021, "questionNumber": 14, "type": "choice", "image": "images/g1-2021-14.png", "answer": "2" },
+  { "id": "g1-2021-15", "year": 2021, "questionNumber": 15, "type": "choice", "image": "images/g1-2021-15.png", "answer": "1" },
+  { "id": "g1-2021-16", "year": 2021, "questionNumber": 16, "type": "choice", "image": "images/g1-2021-16.png", "answer": "3" },
+  { "id": "g1-2021-17", "year": 2021, "questionNumber": 17, "type": "choice", "image": "images/g1-2021-17.png", "answer": "3" },
+  { "id": "g1-2021-18", "year": 2021, "questionNumber": 18, "type": "choice", "image": "images/g1-2021-18.png", "answer": "3" },
+  { "id": "g1-2021-19", "year": 2021, "questionNumber": 19, "type": "choice", "image": "images/g1-2021-19.png", "answer": "4" },
+  { "id": "g1-2021-20", "year": 2021, "questionNumber": 20, "type": "choice", "image": "images/g1-2021-20.png", "answer": "4" },
+  { "id": "g1-2021-21", "year": 2021, "questionNumber": 21, "type": "short", "image": "images/g1-2021-21.png", "answer": "冊封" },
+  {
+    "id": "g1-2021-22",
+    "year": 2021,
+    "questionNumber": 22,
+    "type": "cloze",
+    "image": "images/g1-2021-22.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]と結んだ[B]は、[C]などの復興のためにヤマト政権が派遣した軍を遮って反乱をおこしたが鎮圧された。子の葛子は許しを得るため、糟屋屯倉を政権に献上した。",
+    "blanks": [
+      { "label": "A", "answer": "新羅" },
+      { "label": "B", "answer": "筑紫国造磐井" },
+      { "label": "C", "answer": "加羅" }
+    ]
+  },
+  { "id": "g1-2021-23", "year": 2021, "questionNumber": 23, "type": "short", "image": "images/g1-2021-23.png", "answer": "基肄城" },
+  { "id": "g1-2021-24", "year": 2021, "questionNumber": 24, "type": "short", "image": "images/g1-2021-24.png", "answer": "神皇正統記" },
+  { "id": "g1-2021-25", "year": 2021, "questionNumber": 25, "type": "short", "image": "images/g1-2021-25.png", "answer": "義時" },
+  { "id": "g1-2021-26", "year": 2021, "questionNumber": 26, "type": "short", "image": "images/g1-2021-26.png", "answer": "姜沆" },
+  { "id": "g1-2021-27", "year": 2021, "questionNumber": 27, "type": "short", "image": "images/g1-2021-27.png", "answer": "経済録拾遺" },
+  {
+    "id": "g1-2021-28",
+    "year": 2021,
+    "questionNumber": 28,
+    "type": "cloze",
+    "image": "images/g1-2021-28.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "大日本帝国憲法では、各国務大臣は単独で[A]を輔弼し、[A]に対してのみ責任を負うものとされたが、日本国憲法では、内閣は、[B]に対して連帯して責任を負うものとされた。",
+    "blanks": [
+      { "label": "A", "answer": "天皇" },
+      { "label": "B", "answer": "国会" }
+    ]
+  },
+  { "id": "g1-2021-29", "year": 2021, "questionNumber": 29, "type": "short", "image": "images/g1-2021-29.png", "answer": "憲法問題調査委員会" },
+  { "id": "g1-2021-30", "year": 2021, "questionNumber": 30, "type": "short", "image": "images/g1-2021-30.png", "answer": "有沢広巳" }
 ]
