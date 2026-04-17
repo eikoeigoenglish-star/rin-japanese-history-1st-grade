@@ -56,7 +56,68 @@
     "promptText": "天皇大権に属する統帥権は「天皇ハ[A]ヲ統帥ス」と規定され、統帥事項については、軍令機関が[B]や議会などの関与を受けずに事実上の決定をおこなうと解釈された。",
     "blanks": [
       { "label": "A", "answer": "陸海軍" },
-      { "label": "B", "answer": "内閣" }
+      { "label": "B", "answer": "内閣" }  
     ]
-  }
+  },
+  ,
+  { "id": "g1-2009-01", "year": 2009, "questionNumber": 1, "type": "choice", "image": "images/g1-2009-01.png", "answer": "3" },
+  { "id": "g1-2009-02", "year": 2009, "questionNumber": 2, "type": "choice", "image": "images/g1-2009-02.png", "answer": "3" },
+  { "id": "g1-2009-03", "year": 2009, "questionNumber": 3, "type": "choice", "image": "images/g1-2009-03.png", "answer": "4" },
+  { "id": "g1-2009-04", "year": 2009, "questionNumber": 4, "type": "choice", "image": "images/g1-2009-04.png", "answer": "1" },
+  { "id": "g1-2009-05", "year": 2009, "questionNumber": 5, "type": "choice", "image": "images/g1-2009-05.png", "answer": "2" },
+  { "id": "g1-2009-06", "year": 2009, "questionNumber": 6, "type": "choice", "image": "images/g1-2009-06.png", "answer": "3" },
+  { "id": "g1-2009-07", "year": 2009, "questionNumber": 7, "type": "choice", "image": "images/g1-2009-07.png", "answer": "4" },
+  { "id": "g1-2009-08", "year": 2009, "questionNumber": 8, "type": "choice", "image": "images/g1-2009-08.png", "answer": "2" },
+  { "id": "g1-2009-09", "year": 2009, "questionNumber": 9, "type": "choice", "image": "images/g1-2009-09.png", "answer": "1" },
+  { "id": "g1-2009-10", "year": 2009, "questionNumber": 10, "type": "choice", "image": "images/g1-2009-10.png", "answer": "3" },
+
+  { "id": "g1-2009-11", "year": 2009, "questionNumber": 11, "type": "choice", "image": "images/g1-2009-11.png", "answer": "3" },
+  { "id": "g1-2009-12", "year": 2009, "questionNumber": 12, "type": "choice", "image": "images/g1-2009-12.png", "answer": "2" },
+  { "id": "g1-2009-13", "year": 2009, "questionNumber": 13, "type": "choice", "image": "images/g1-2009-13.png", "answer": "1" },
+  { "id": "g1-2009-14", "year": 2009, "questionNumber": 14, "type": "choice", "image": "images/g1-2009-14.png", "answer": "4" },
+  { "id": "g1-2009-15", "year": 2009, "questionNumber": 15, "type": "choice", "image": "images/g1-2009-15.png", "answer": "4" },
+  { "id": "g1-2009-16", "year": 2009, "questionNumber": 16, "type": "choice", "image": "images/g1-2009-16.png", "answer": "4" },
+  { "id": "g1-2009-17", "year": 2009, "questionNumber": 17, "type": "choice", "image": "images/g1-2009-17.png", "answer": "4" },
+  { "id": "g1-2009-18", "year": 2009, "questionNumber": 18, "type": "choice", "image": "images/g1-2009-18.png", "answer": "2" },
+  { "id": "g1-2009-19", "year": 2009, "questionNumber": 19, "type": "choice", "image": "images/g1-2009-19.png", "answer": "3" },
+  { "id": "g1-2009-20", "year": 2009, "questionNumber": 20, "type": "choice", "image": "images/g1-2009-20.png", "answer": "1" },
+
+  { "id": "g1-2009-21", "year": 2009, "questionNumber": 21, "type": "short", "image": "images/g1-2009-21.png", "answer": "尾張国郡司百姓等解" },
+  { "id": "g1-2009-22", "year": 2009, "questionNumber": 22, "type": "short", "image": "images/g1-2009-22.png", "answer": "目代" },
+
+  {
+    "id": "g1-2009-23",
+    "year": 2009,
+    "questionNumber": 23,
+    "type": "cloze",
+    "image": "images/g1-2009-23.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]を京中に設置して、前任国司の在任中の政務に問題がない場合に新任者が前任者に与える[B]の授受の審査を厳格にした。",
+    "blanks": [
+      { "label": "A", "answer": "勘解由使" },
+      { "label": "B", "answer": "解由状" }
+    ]
+  },
+
+  { "id": "g1-2009-24", "year": 2009, "questionNumber": 24, "type": "short", "image": "images/g1-2009-24.png", "answer": "阿仏尼" },
+  { "id": "g1-2009-25", "year": 2009, "questionNumber": 25, "type": "short", "image": "images/g1-2009-25.png", "answer": "神皇正統記" },
+  { "id": "g1-2009-26", "year": 2009, "questionNumber": 26, "type": "short", "image": "images/g1-2009-26.png", "answer": "河村瑞賢" },
+  { "id": "g1-2009-27", "year": 2009, "questionNumber": 27, "type": "short", "image": "images/g1-2009-27.png", "answer": "為永春水" },
+
+  {
+    "id": "g1-2009-28",
+    "year": 2009,
+    "questionNumber": 28,
+    "type": "cloze",
+    "image": "images/g1-2009-28.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]や廻船業者が成長して地方市場間の直接取引が活発化し、[B]への商品入荷量減少や江戸以外への商品直送が顕著になった。",
+    "blanks": [
+      { "label": "A", "answer": "在郷商人" },
+      { "label": "B", "answer": "上方" }
+    ]
+  },
+
+  { "id": "g1-2009-29", "year": 2009, "questionNumber": 29, "type": "short", "image": "images/g1-2009-29.png", "answer": "時局匡救" },
+  { "id": "g1-2009-30", "year": 2009, "questionNumber": 30, "type": "short", "image": "images/g1-2009-30.png", "answer": "理化学研究所" }
 ]
