@@ -56,7 +56,7 @@
     "promptText": "天皇大権に属する統帥権は「天皇ハ[A]ヲ統帥ス」と規定され、統帥事項については、軍令機関が[B]や議会などの関与を受けずに事実上の決定をおこなうと解釈された。",
     "blanks": [
       { "label": "A", "answer": "陸海軍" },
-      { "label": "B", "answer": "内閣" }  
+      { "label": "B", "answer": "内閣" }
     ]
   },
   { "id": "g1-2009-01", "year": 2009, "questionNumber": 1, "type": "choice", "image": "images/g1-2009-01.png", "answer": "3" },
