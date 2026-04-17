@@ -241,7 +241,6 @@
 
   { "id": "g1-2011-29", "year": 2011, "questionNumber": 29, "type": "short", "image": "images/g1-2011-29.png", "answer": "内需" },
   { "id": "g1-2011-30", "year": 2011, "questionNumber": 30, "type": "short", "image": "images/g1-2011-30.png", "answer": "西ドイツ" },
-  ,
   { "id": "g1-2012-01", "year": 2012, "questionNumber": 1, "type": "choice", "image": "images/g1-2012-01.png", "answer": "4" },
   { "id": "g1-2012-02", "year": 2012, "questionNumber": 2, "type": "choice", "image": "images/g1-2012-02.png", "answer": "1" },
   { "id": "g1-2012-03", "year": 2012, "questionNumber": 3, "type": "choice", "image": "images/g1-2012-03.png", "answer": "4" },
