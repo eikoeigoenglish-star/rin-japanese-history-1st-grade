@@ -179,3 +179,24 @@ h2, h4, h5 {
 #back-to-start-btn {
   min-width: 220px;
 }
+
+/* =========================
+   採点テーブル：文字サイズ拡大
+========================= */
+#result-table td,
+#result-table th {
+  font-size: 1.8rem;   /* 約2倍 */
+  line-height: 1.4;
+}
+
+/* #列（番号）をさらに見やすく */
+#result-table td:first-child {
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+/* 判定（○×）を強調 */
+#result-table td:last-child {
+  font-size: 2.2rem;
+  font-weight: 700;
+}
