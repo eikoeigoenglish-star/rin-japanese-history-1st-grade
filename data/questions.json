@@ -445,5 +445,65 @@
       { "label": "B", "answer": "荻原守衛" },
       { "label": "C", "answer": "文展" }
     ]
-  }
+  },
+  { "id": "g1-2019-01", "year": 2019, "questionNumber": 1, "type": "choice", "image": "images/g1-2019-01.png", "answer": "1" },
+  { "id": "g1-2019-02", "year": 2019, "questionNumber": 2, "type": "choice", "image": "images/g1-2019-02.png", "answer": "2" },
+  { "id": "g1-2019-03", "year": 2019, "questionNumber": 3, "type": "choice", "image": "images/g1-2019-03.png", "answer": "3" },
+  { "id": "g1-2019-04", "year": 2019, "questionNumber": 4, "type": "choice", "image": "images/g1-2019-04.png", "answer": "4" },
+  { "id": "g1-2019-05", "year": 2019, "questionNumber": 5, "type": "choice", "image": "images/g1-2019-05.png", "answer": "3" },
+  { "id": "g1-2019-06", "year": 2019, "questionNumber": 6, "type": "choice", "image": "images/g1-2019-06.png", "answer": "3" },
+  { "id": "g1-2019-07", "year": 2019, "questionNumber": 7, "type": "choice", "image": "images/g1-2019-07.png", "answer": "4" },
+  { "id": "g1-2019-08", "year": 2019, "questionNumber": 8, "type": "choice", "image": "images/g1-2019-08.png", "answer": "1" },
+  { "id": "g1-2019-09", "year": 2019, "questionNumber": 9, "type": "choice", "image": "images/g1-2019-09.png", "answer": "3" },
+  { "id": "g1-2019-10", "year": 2019, "questionNumber": 10, "type": "choice", "image": "images/g1-2019-10.png", "answer": "2" },
+  { "id": "g1-2019-11", "year": 2019, "questionNumber": 11, "type": "choice", "image": "images/g1-2019-11.png", "answer": "4" },
+  { "id": "g1-2019-12", "year": 2019, "questionNumber": 12, "type": "choice", "image": "images/g1-2019-12.png", "answer": "3" },
+  { "id": "g1-2019-13", "year": 2019, "questionNumber": 13, "type": "choice", "image": "images/g1-2019-13.png", "answer": "3" },
+  { "id": "g1-2019-14", "year": 2019, "questionNumber": 14, "type": "choice", "image": "images/g1-2019-14.png", "answer": "1" },
+  { "id": "g1-2019-15", "year": 2019, "questionNumber": 15, "type": "choice", "image": "images/g1-2019-15.png", "answer": "1" },
+  { "id": "g1-2019-16", "year": 2019, "questionNumber": 16, "type": "choice", "image": "images/g1-2019-16.png", "answer": "3" },
+  { "id": "g1-2019-17", "year": 2019, "questionNumber": 17, "type": "choice", "image": "images/g1-2019-17.png", "answer": "2" },
+  { "id": "g1-2019-18", "year": 2019, "questionNumber": 18, "type": "choice", "image": "images/g1-2019-18.png", "answer": "3" },
+  { "id": "g1-2019-19", "year": 2019, "questionNumber": 19, "type": "choice", "image": "images/g1-2019-19.png", "answer": "4" },
+  { "id": "g1-2019-20", "year": 2019, "questionNumber": 20, "type": "choice", "image": "images/g1-2019-20.png", "answer": "3" },
+  { "id": "g1-2019-21", "year": 2019, "questionNumber": 21, "type": "short", "image": "images/g1-2019-21.png", "answer": "黒曜石" },
+  { "id": "g1-2019-22", "year": 2019, "questionNumber": 22, "type": "short", "image": "images/g1-2019-22.png", "answer": "飛鳥池" },
+  { "id": "g1-2019-23", "year": 2019, "questionNumber": 23, "type": "short", "image": "images/g1-2019-23.png", "answer": "梁塵秘抄" },
+  {
+    "id": "g1-2019-24",
+    "year": 2019,
+    "questionNumber": 24,
+    "type": "cloze",
+    "image": "images/g1-2019-24.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "源義朝の守護職は[A]院が認めたもので、[B]らも人々の期待に背いていないため、[C]は、わずかな理由で義時追討を図った[D]を[E]上皇の過失とした。",
+    "blanks": [
+      { "label": "A", "answer": "白河" },
+      { "label": "B", "answer": "北条政子" },
+      { "label": "C", "answer": "北畠親房" },
+      { "label": "D", "answer": "承久の乱" },
+      { "label": "E", "answer": "後鳥羽" }
+    ]
+  },
+  { "id": "g1-2019-25", "year": 2019, "questionNumber": 25, "type": "short", "image": "images/g1-2019-25.png", "answer": "狂言" },
+  { "id": "g1-2019-26", "year": 2019, "questionNumber": 26, "type": "short", "image": "images/g1-2019-26.png", "answer": "渡辺崋山" },
+  { "id": "g1-2019-27", "year": 2019, "questionNumber": 27, "type": "short", "image": "images/g1-2019-27.png", "answer": "蔦屋重三郎" },
+  {
+    "id": "g1-2019-28",
+    "year": 2019,
+    "questionNumber": 28,
+    "type": "cloze",
+    "image": "images/g1-2019-28.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]制は、第一次[B]運動を経て成立した第1次[C]内閣時に改正され、現役規定が削除されたが、[D]事件を経て成立した[E]内閣時に復活した。",
+    "blanks": [
+      { "label": "A", "answer": "軍部大臣現役武官" },
+      { "label": "B", "answer": "護憲" },
+      { "label": "C", "answer": "山本権兵衛" },
+      { "label": "D", "answer": "二・二六" },
+      { "label": "E", "answer": "広田弘毅" }
+    ]
+  },
+  { "id": "g1-2019-29", "year": 2019, "questionNumber": 29, "type": "short", "image": "images/g1-2019-29.png", "answer": "黒澤明" },
+  { "id": "g1-2019-30", "year": 2019, "questionNumber": 30, "type": "short", "image": "images/g1-2019-30.png", "answer": "保安隊" }
 ]
