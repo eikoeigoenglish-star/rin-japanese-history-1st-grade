@@ -9,7 +9,6 @@
   { "id": "g1-2008-08", "year": 2008, "questionNumber": 8, "type": "choice", "image": "images/g1-2008-08.png", "answer": "3" },
   { "id": "g1-2008-09", "year": 2008, "questionNumber": 9, "type": "choice", "image": "images/g1-2008-09.png", "answer": "1" },
   { "id": "g1-2008-10", "year": 2008, "questionNumber": 10, "type": "choice", "image": "images/g1-2008-10.png", "answer": "4" },
-
   { "id": "g1-2008-11", "year": 2008, "questionNumber": 11, "type": "choice", "image": "images/g1-2008-11.png", "answer": "2" },
   { "id": "g1-2008-12", "year": 2008, "questionNumber": 12, "type": "choice", "image": "images/g1-2008-12.png", "answer": "3" },
   { "id": "g1-2008-13", "year": 2008, "questionNumber": 13, "type": "choice", "image": "images/g1-2008-13.png", "answer": "1" },
@@ -20,10 +19,8 @@
   { "id": "g1-2008-18", "year": 2008, "questionNumber": 18, "type": "choice", "image": "images/g1-2008-18.png", "answer": "3" },
   { "id": "g1-2008-19", "year": 2008, "questionNumber": 19, "type": "choice", "image": "images/g1-2008-19.png", "answer": "2" },
   { "id": "g1-2008-20", "year": 2008, "questionNumber": 20, "type": "choice", "image": "images/g1-2008-20.png", "answer": "3" },
-
   { "id": "g1-2008-21", "year": 2008, "questionNumber": 21, "type": "short", "image": "images/g1-2008-21.png", "answer": "大伴金村" },
   { "id": "g1-2008-22", "year": 2008, "questionNumber": 22, "type": "short", "image": "images/g1-2008-22.png", "answer": "渤海" },
-
   {
     "id": "g1-2008-23",
     "year": 2008,
@@ -38,14 +35,12 @@
       { "label": "C", "answer": "対等" }
     ]
   },
-
   { "id": "g1-2008-24", "year": 2008, "questionNumber": 24, "type": "short", "image": "images/g1-2008-24.png", "answer": "十六夜日記" },
   { "id": "g1-2008-25", "year": 2008, "questionNumber": 25, "type": "short", "image": "images/g1-2008-25.png", "answer": "北条実時" },
   { "id": "g1-2008-26", "year": 2008, "questionNumber": 26, "type": "short", "image": "images/g1-2008-26.png", "answer": "ユーカラ" },
   { "id": "g1-2008-27", "year": 2008, "questionNumber": 27, "type": "short", "image": "images/g1-2008-27.png", "answer": "蠣崎" },
   { "id": "g1-2008-28", "year": 2008, "questionNumber": 28, "type": "short", "image": "images/g1-2008-28.png", "answer": "牧野伸顕" },
   { "id": "g1-2008-29", "year": 2008, "questionNumber": 29, "type": "short", "image": "images/g1-2008-29.png", "answer": "公職追放" },
-
   {
     "id": "g1-2008-30",
     "year": 2008,
@@ -69,7 +64,6 @@
   { "id": "g1-2009-08", "year": 2009, "questionNumber": 8, "type": "choice", "image": "images/g1-2009-08.png", "answer": "2" },
   { "id": "g1-2009-09", "year": 2009, "questionNumber": 9, "type": "choice", "image": "images/g1-2009-09.png", "answer": "1" },
   { "id": "g1-2009-10", "year": 2009, "questionNumber": 10, "type": "choice", "image": "images/g1-2009-10.png", "answer": "3" },
-
   { "id": "g1-2009-11", "year": 2009, "questionNumber": 11, "type": "choice", "image": "images/g1-2009-11.png", "answer": "3" },
   { "id": "g1-2009-12", "year": 2009, "questionNumber": 12, "type": "choice", "image": "images/g1-2009-12.png", "answer": "2" },
   { "id": "g1-2009-13", "year": 2009, "questionNumber": 13, "type": "choice", "image": "images/g1-2009-13.png", "answer": "1" },
@@ -80,10 +74,8 @@
   { "id": "g1-2009-18", "year": 2009, "questionNumber": 18, "type": "choice", "image": "images/g1-2009-18.png", "answer": "2" },
   { "id": "g1-2009-19", "year": 2009, "questionNumber": 19, "type": "choice", "image": "images/g1-2009-19.png", "answer": "3" },
   { "id": "g1-2009-20", "year": 2009, "questionNumber": 20, "type": "choice", "image": "images/g1-2009-20.png", "answer": "1" },
-
   { "id": "g1-2009-21", "year": 2009, "questionNumber": 21, "type": "short", "image": "images/g1-2009-21.png", "answer": "尾張国郡司百姓等解" },
   { "id": "g1-2009-22", "year": 2009, "questionNumber": 22, "type": "short", "image": "images/g1-2009-22.png", "answer": "目代" },
-
   {
     "id": "g1-2009-23",
     "year": 2009,
@@ -97,12 +89,10 @@
       { "label": "B", "answer": "解由状" }
     ]
   },
-
   { "id": "g1-2009-24", "year": 2009, "questionNumber": 24, "type": "short", "image": "images/g1-2009-24.png", "answer": "阿仏尼" },
   { "id": "g1-2009-25", "year": 2009, "questionNumber": 25, "type": "short", "image": "images/g1-2009-25.png", "answer": "神皇正統記" },
   { "id": "g1-2009-26", "year": 2009, "questionNumber": 26, "type": "short", "image": "images/g1-2009-26.png", "answer": "河村瑞賢" },
   { "id": "g1-2009-27", "year": 2009, "questionNumber": 27, "type": "short", "image": "images/g1-2009-27.png", "answer": "為永春水" },
-
   {
     "id": "g1-2009-28",
     "year": 2009,
@@ -116,7 +106,6 @@
       { "label": "B", "answer": "上方" }
     ]
   },
-
   { "id": "g1-2009-29", "year": 2009, "questionNumber": 29, "type": "short", "image": "images/g1-2009-29.png", "answer": "時局匡救" },
   { "id": "g1-2009-30", "year": 2009, "questionNumber": 30, "type": "short", "image": "images/g1-2009-30.png", "answer": "理化学研究所" },
   { "id": "g1-2010-01", "year": 2010, "questionNumber": 1, "type": "choice", "image": "images/g1-2010-01.png", "answer": "4" },
@@ -129,7 +118,6 @@
   { "id": "g1-2010-08", "year": 2010, "questionNumber": 8, "type": "choice", "image": "images/g1-2010-08.png", "answer": "3" },
   { "id": "g1-2010-09", "year": 2010, "questionNumber": 9, "type": "choice", "image": "images/g1-2010-09.png", "answer": "3" },
   { "id": "g1-2010-10", "year": 2010, "questionNumber": 10, "type": "choice", "image": "images/g1-2010-10.png", "answer": "4" },
-
   { "id": "g1-2010-11", "year": 2010, "questionNumber": 11, "type": "choice", "image": "images/g1-2010-11.png", "answer": "2" },
   { "id": "g1-2010-12", "year": 2010, "questionNumber": 12, "type": "choice", "image": "images/g1-2010-12.png", "answer": "1" },
   { "id": "g1-2010-13", "year": 2010, "questionNumber": 13, "type": "choice", "image": "images/g1-2010-13.png", "answer": "2" },
@@ -140,11 +128,9 @@
   { "id": "g1-2010-18", "year": 2010, "questionNumber": 18, "type": "choice", "image": "images/g1-2010-18.png", "answer": "4" },
   { "id": "g1-2010-19", "year": 2010, "questionNumber": 19, "type": "choice", "image": "images/g1-2010-19.png", "answer": "3" },
   { "id": "g1-2010-20", "year": 2010, "questionNumber": 20, "type": "choice", "image": "images/g1-2010-20.png", "answer": "4" },
-
   { "id": "g1-2010-21", "year": 2010, "questionNumber": 21, "type": "short", "image": "images/g1-2010-21.png", "answer": "蘇我倉山田石川麻呂" },
   { "id": "g1-2010-22", "year": 2010, "questionNumber": 22, "type": "short", "image": "images/g1-2010-22.png", "answer": "一品" },
   { "id": "g1-2010-23", "year": 2010, "questionNumber": 23, "type": "short", "image": "images/g1-2010-23.png", "answer": "重源" },
-
   {
     "id": "g1-2010-24",
     "year": 2010,
@@ -158,13 +144,11 @@
       { "label": "B", "answer": "下地中分" }
     ]
   },
-
   { "id": "g1-2010-25", "year": 2010, "questionNumber": 25, "type": "short", "image": "images/g1-2010-25.png", "answer": "三善康信" },
   { "id": "g1-2010-26", "year": 2010, "questionNumber": 26, "type": "short", "image": "images/g1-2010-26.png", "answer": "日蓮宗不受不施派" },
   { "id": "g1-2010-27", "year": 2010, "questionNumber": 27, "type": "short", "image": "images/g1-2010-27.png", "answer": "徳川綱吉" },
   { "id": "g1-2010-28", "year": 2010, "questionNumber": 28, "type": "short", "image": "images/g1-2010-28.png", "answer": "伊東巳代治" },
   { "id": "g1-2010-29", "year": 2010, "questionNumber": 29, "type": "short", "image": "images/g1-2010-29.png", "answer": "満州重工業開発会社" },
-
   {
     "id": "g1-2010-30",
     "year": 2010,
@@ -189,7 +173,6 @@
   { "id": "g1-2011-08", "year": 2011, "questionNumber": 8, "type": "choice", "image": "images/g1-2011-08.png", "answer": "4" },
   { "id": "g1-2011-09", "year": 2011, "questionNumber": 9, "type": "choice", "image": "images/g1-2011-09.png", "answer": "2" },
   { "id": "g1-2011-10", "year": 2011, "questionNumber": 10, "type": "choice", "image": "images/g1-2011-10.png", "answer": "1" },
-
   { "id": "g1-2011-11", "year": 2011, "questionNumber": 11, "type": "choice", "image": "images/g1-2011-11.png", "answer": "4" },
   { "id": "g1-2011-12", "year": 2011, "questionNumber": 12, "type": "choice", "image": "images/g1-2011-12.png", "answer": "3" },
   { "id": "g1-2011-13", "year": 2011, "questionNumber": 13, "type": "choice", "image": "images/g1-2011-13.png", "answer": "3" },
@@ -200,11 +183,9 @@
   { "id": "g1-2011-18", "year": 2011, "questionNumber": 18, "type": "choice", "image": "images/g1-2011-18.png", "answer": "4" },
   { "id": "g1-2011-19", "year": 2011, "questionNumber": 19, "type": "choice", "image": "images/g1-2011-19.png", "answer": "2" },
   { "id": "g1-2011-20", "year": 2011, "questionNumber": 20, "type": "choice", "image": "images/g1-2011-20.png", "answer": "4" },
-
   { "id": "g1-2011-21", "year": 2011, "questionNumber": 21, "type": "short", "image": "images/g1-2011-21.png", "answer": "食封" },
   { "id": "g1-2011-22", "year": 2011, "questionNumber": 22, "type": "short", "image": "images/g1-2011-22.png", "answer": "鬼室福信" },
   { "id": "g1-2011-23", "year": 2011, "questionNumber": 23, "type": "short", "image": "images/g1-2011-23.png", "answer": "乾坤通宝" },
-
   {
     "id": "g1-2011-24",
     "year": 2011,
@@ -223,7 +204,6 @@
   { "id": "g1-2011-25", "year": 2011, "questionNumber": 25, "type": "short", "image": "images/g1-2011-25.png", "answer": "陶晴賢" },
   { "id": "g1-2011-26", "year": 2011, "questionNumber": 26, "type": "short", "image": "images/g1-2011-26.png", "answer": "女大学" },
   { "id": "g1-2011-27", "year": 2011, "questionNumber": 27, "type": "short", "image": "images/g1-2011-27.png", "answer": "東慶寺" },
-
   {
     "id": "g1-2011-28",
     "year": 2011,
@@ -238,7 +218,6 @@
       { "label": "C", "answer": "ペリー" }
     ]
   },
-
   { "id": "g1-2011-29", "year": 2011, "questionNumber": 29, "type": "short", "image": "images/g1-2011-29.png", "answer": "内需" },
   { "id": "g1-2011-30", "year": 2011, "questionNumber": 30, "type": "short", "image": "images/g1-2011-30.png", "answer": "西ドイツ" },
   { "id": "g1-2012-01", "year": 2012, "questionNumber": 1, "type": "choice", "image": "images/g1-2012-01.png", "answer": "4" },
