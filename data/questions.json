@@ -389,5 +389,61 @@
       { "label": "C", "answer": "ベトナム" },
       { "label": "D", "answer": "いざなぎ" }
     ]
+  },
+  { "id": "g1-2018-01", "year": 2018, "questionNumber": 1, "type": "choice", "image": "images/g1-2018-01.png", "answer": "3" },
+  { "id": "g1-2018-02", "year": 2018, "questionNumber": 2, "type": "choice", "image": "images/g1-2018-02.png", "answer": "2" },
+  { "id": "g1-2018-03", "year": 2018, "questionNumber": 3, "type": "choice", "image": "images/g1-2018-03.png", "answer": "4" },
+  { "id": "g1-2018-04", "year": 2018, "questionNumber": 4, "type": "choice", "image": "images/g1-2018-04.png", "answer": "4" },
+  { "id": "g1-2018-05", "year": 2018, "questionNumber": 5, "type": "choice", "image": "images/g1-2018-05.png", "answer": "2" },
+  { "id": "g1-2018-06", "year": 2018, "questionNumber": 6, "type": "choice", "image": "images/g1-2018-06.png", "answer": "1" },
+  { "id": "g1-2018-07", "year": 2018, "questionNumber": 7, "type": "choice", "image": "images/g1-2018-07.png", "answer": "3" },
+  { "id": "g1-2018-08", "year": 2018, "questionNumber": 8, "type": "choice", "image": "images/g1-2018-08.png", "answer": "3" },
+  { "id": "g1-2018-09", "year": 2018, "questionNumber": 9, "type": "choice", "image": "images/g1-2018-09.png", "answer": "4" },
+  { "id": "g1-2018-10", "year": 2018, "questionNumber": 10, "type": "choice", "image": "images/g1-2018-10.png", "answer": "4" },
+  { "id": "g1-2018-11", "year": 2018, "questionNumber": 11, "type": "choice", "image": "images/g1-2018-11.png", "answer": "4" },
+  { "id": "g1-2018-12", "year": 2018, "questionNumber": 12, "type": "choice", "image": "images/g1-2018-12.png", "answer": "3" },
+  { "id": "g1-2018-13", "year": 2018, "questionNumber": 13, "type": "choice", "image": "images/g1-2018-13.png", "answer": "4" },
+  { "id": "g1-2018-14", "year": 2018, "questionNumber": 14, "type": "choice", "image": "images/g1-2018-14.png", "answer": "4" },
+  { "id": "g1-2018-15", "year": 2018, "questionNumber": 15, "type": "choice", "image": "images/g1-2018-15.png", "answer": "1" },
+  { "id": "g1-2018-16", "year": 2018, "questionNumber": 16, "type": "choice", "image": "images/g1-2018-16.png", "answer": "4" },
+  { "id": "g1-2018-17", "year": 2018, "questionNumber": 17, "type": "choice", "image": "images/g1-2018-17.png", "answer": "3" },
+  { "id": "g1-2018-18", "year": 2018, "questionNumber": 18, "type": "choice", "image": "images/g1-2018-18.png", "answer": "2" },
+  { "id": "g1-2018-19", "year": 2018, "questionNumber": 19, "type": "choice", "image": "images/g1-2018-19.png", "answer": "2" },
+  { "id": "g1-2018-20", "year": 2018, "questionNumber": 20, "type": "choice", "image": "images/g1-2018-20.png", "answer": "1" },
+  { "id": "g1-2018-21", "year": 2018, "questionNumber": 21, "type": "short", "image": "images/g1-2018-21.png", "answer": "会下山遺跡" },
+  { "id": "g1-2018-22", "year": 2018, "questionNumber": 22, "type": "short", "image": "images/g1-2018-22.png", "answer": "物部麁鹿火" },
+  {
+    "id": "g1-2018-23",
+    "year": 2018,
+    "questionNumber": 23,
+    "type": "cloze",
+    "image": "images/g1-2018-23.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "平安京には[A]天皇が遷都したが、嵯峨天皇は[B]太上天皇の変で藤原[C]・薬子らの平城京再遷都計画を阻止したため、同天皇時に平安京が都として定着したと認識していた。",
+    "blanks": [
+      { "label": "A", "answer": "桓武" },
+      { "label": "B", "answer": "平城" },
+      { "label": "C", "answer": "仲成" }
+    ]
+  },
+  { "id": "g1-2018-24", "year": 2018, "questionNumber": 24, "type": "short", "image": "images/g1-2018-24.png", "answer": "宝治合戦" },
+  { "id": "g1-2018-25", "year": 2018, "questionNumber": 25, "type": "short", "image": "images/g1-2018-25.png", "answer": "冊封" },
+  { "id": "g1-2018-26", "year": 2018, "questionNumber": 26, "type": "short", "image": "images/g1-2018-26.png", "answer": "松平忠直" },
+  { "id": "g1-2018-27", "year": 2018, "questionNumber": 27, "type": "short", "image": "images/g1-2018-27.png", "answer": "戸次庄左衛門" },
+  { "id": "g1-2018-28", "year": 2018, "questionNumber": 28, "type": "short", "image": "images/g1-2018-28.png", "answer": "紀尾井坂の変" },
+  { "id": "g1-2018-29", "year": 2018, "questionNumber": 29, "type": "short", "image": "images/g1-2018-29.png", "answer": "団琢磨" },
+  {
+    "id": "g1-2018-30",
+    "year": 2018,
+    "questionNumber": 30,
+    "type": "cloze",
+    "image": "images/g1-2018-30.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]の伝統的な木彫りと、[B]の西洋流の彫刻に象徴されるように、日本美術と西洋美術は対立・競合しながら発達してきたが、[C]は両者に共通する発表の場となった。",
+    "blanks": [
+      { "label": "A", "answer": "高村光雲" },
+      { "label": "B", "answer": "荻原守衛" },
+      { "label": "C", "answer": "文展" }
+    ]
   }
 ]
