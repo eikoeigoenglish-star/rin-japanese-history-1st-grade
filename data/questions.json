@@ -505,5 +505,63 @@
     ]
   },
   { "id": "g1-2019-29", "year": 2019, "questionNumber": 29, "type": "short", "image": "images/g1-2019-29.png", "answer": "黒澤明" },
-  { "id": "g1-2019-30", "year": 2019, "questionNumber": 30, "type": "short", "image": "images/g1-2019-30.png", "answer": "保安隊" }
+  { "id": "g1-2019-30", "year": 2019, "questionNumber": 30, "type": "short", "image": "images/g1-2019-30.png", "answer": "保安隊" },
+  { "id": "g1-2020-01", "year": 2020, "questionNumber": 1, "type": "choice", "image": "images/g1-2020-01.png", "answer": "4" },
+  { "id": "g1-2020-02", "year": 2020, "questionNumber": 2, "type": "choice", "image": "images/g1-2020-02.png", "answer": "3" },
+  { "id": "g1-2020-03", "year": 2020, "questionNumber": 3, "type": "choice", "image": "images/g1-2020-03.png", "answer": "3" },
+  { "id": "g1-2020-04", "year": 2020, "questionNumber": 4, "type": "choice", "image": "images/g1-2020-04.png", "answer": "1" },
+  { "id": "g1-2020-05", "year": 2020, "questionNumber": 5, "type": "choice", "image": "images/g1-2020-05.png", "answer": "2" },
+  { "id": "g1-2020-06", "year": 2020, "questionNumber": 6, "type": "choice", "image": "images/g1-2020-06.png", "answer": "4" },
+  { "id": "g1-2020-07", "year": 2020, "questionNumber": 7, "type": "choice", "image": "images/g1-2020-07.png", "answer": "3" },
+  { "id": "g1-2020-08", "year": 2020, "questionNumber": 8, "type": "choice", "image": "images/g1-2020-08.png", "answer": "4" },
+  { "id": "g1-2020-09", "year": 2020, "questionNumber": 9, "type": "choice", "image": "images/g1-2020-09.png", "answer": "3" },
+  { "id": "g1-2020-10", "year": 2020, "questionNumber": 10, "type": "choice", "image": "images/g1-2020-10.png", "answer": "2" },
+  { "id": "g1-2020-11", "year": 2020, "questionNumber": 11, "type": "choice", "image": "images/g1-2020-11.png", "answer": "4" },
+  { "id": "g1-2020-12", "year": 2020, "questionNumber": 12, "type": "choice", "image": "images/g1-2020-12.png", "answer": "2" },
+  { "id": "g1-2020-13", "year": 2020, "questionNumber": 13, "type": "choice", "image": "images/g1-2020-13.png", "answer": "4" },
+  { "id": "g1-2020-14", "year": 2020, "questionNumber": 14, "type": "choice", "image": "images/g1-2020-14.png", "answer": "2" },
+  { "id": "g1-2020-15", "year": 2020, "questionNumber": 15, "type": "choice", "image": "images/g1-2020-15.png", "answer": "1" },
+  { "id": "g1-2020-16", "year": 2020, "questionNumber": 16, "type": "choice", "image": "images/g1-2020-16.png", "answer": "3" },
+  { "id": "g1-2020-17", "year": 2020, "questionNumber": 17, "type": "choice", "image": "images/g1-2020-17.png", "answer": "1" },
+  { "id": "g1-2020-18", "year": 2020, "questionNumber": 18, "type": "choice", "image": "images/g1-2020-18.png", "answer": "2" },
+  { "id": "g1-2020-19", "year": 2020, "questionNumber": 19, "type": "choice", "image": "images/g1-2020-19.png", "answer": "3" },
+  { "id": "g1-2020-20", "year": 2020, "questionNumber": 20, "type": "choice", "image": "images/g1-2020-20.png", "answer": "4" },
+  { "id": "g1-2020-21", "year": 2020, "questionNumber": 21, "type": "short", "image": "images/g1-2020-21.png", "answer": "貝塚" },
+  {
+    "id": "g1-2020-22",
+    "year": 2020,
+    "questionNumber": 22,
+    "type": "cloze",
+    "image": "images/g1-2020-22.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]の碑文には、倭国が[B]の軍と交戦したことが記されており、この時に倭人が[C]の技術を学んだことにより、古墳には[D]が副葬されるようになったと考えられる。",
+    "blanks": [
+      { "label": "A", "answer": "好太王碑" },
+      { "label": "B", "answer": "高句麗" },
+      { "label": "C", "answer": "乗馬" },
+      { "label": "D", "answer": "馬具" }
+    ]
+  },
+  { "id": "g1-2020-23", "year": 2020, "questionNumber": 23, "type": "short", "image": "images/g1-2020-23.png", "answer": "百舌鳥古墳群" },
+  { "id": "g1-2020-24", "year": 2020, "questionNumber": 24, "type": "short", "image": "images/g1-2020-24.png", "answer": "大鏡" },
+  { "id": "g1-2020-25", "year": 2020, "questionNumber": 25, "type": "short", "image": "images/g1-2020-25.png", "answer": "元亨釈書" },
+  { "id": "g1-2020-26", "year": 2020, "questionNumber": 26, "type": "short", "image": "images/g1-2020-26.png", "answer": "志筑忠雄" },
+  {
+    "id": "g1-2020-27",
+    "year": 2020,
+    "questionNumber": 27,
+    "type": "cloze",
+    "image": "images/g1-2020-27.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]の輸入制限を緩和し、[B]御用を設置する一方、[C]の獄では蘭学者を弾圧した。そのため、幕府を批判する思想や政治運動とは結びつかず、[D]の性格を強めた。",
+    "blanks": [
+      { "label": "A", "answer": "漢訳洋書" },
+      { "label": "B", "answer": "蛮書和解" },
+      { "label": "C", "answer": "蛮社" },
+      { "label": "D", "answer": "実学" }
+    ]
+  },
+  { "id": "g1-2020-28", "year": 2020, "questionNumber": 28, "type": "short", "image": "images/g1-2020-28.png", "answer": "赤蝦夷風説考" },
+  { "id": "g1-2020-29", "year": 2020, "questionNumber": 29, "type": "short", "image": "images/g1-2020-29.png", "answer": "横浜正金銀行" },
+  { "id": "g1-2020-30", "year": 2020, "questionNumber": 30, "type": "short", "image": "images/g1-2020-30.png", "answer": "幣原喜重郎" }
 ]
