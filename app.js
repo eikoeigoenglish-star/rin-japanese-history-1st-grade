@@ -17,6 +17,7 @@ async function init() {
 
   document.getElementById("start-btn").addEventListener("click", startExam);
   document.getElementById("next-btn").addEventListener("click", nextQuestion);
+  document.getElementById("back-to-start-btn").addEventListener("click", backToStart);
 }
 
 window.onload = init;
@@ -255,11 +256,14 @@ function showResult() {
     // ===== PC 表 =====
     const tr = document.createElement("tr");
     tr.innerHTML = `
-      <td>${i+1}</td>
-      <td>${q.year}年 第${q.questionNumber}問</td>
+      <td>${i + 1}</td>
+      <td>
+        <div class="mb-2">${q.year}年 第${q.questionNumber}問</div>
+        <img src="${q.image}" class="result-image-pc img-fluid">
+      </td>
       <td>${correctText}</td>
       <td>${userText}</td>
-      <td>${ok ? "○" : "×"}</td>
+      <td class="${ok ? "correct" : "incorrect"}">${ok ? "○" : "×"}</td>
     `;
     table.appendChild(tr);
 
@@ -269,10 +273,10 @@ function showResult() {
     card.innerHTML = `
       <div class="card-body">
         <h6>${q.year}年 第${q.questionNumber}問</h6>
-        <img src="${q.image}" class="img-fluid mb-2">
-        <div>正解：${correctText}</div>
-        <div>あなた：${userText}</div>
-        <div>判定：${ok ? "○" : "×"}</div>
+        <img src="${q.image}" class="img-fluid mb-3 result-image-mobile">
+        <div class="mb-1"><strong>正解：</strong>${correctText}</div>
+        <div class="mb-1"><strong>あなたの答え：</strong>${userText}</div>
+        <div><strong>判定：</strong><span class="${ok ? "correct" : "incorrect"}">${ok ? "○" : "×"}</span></div>
       </div>
     `;
     cards.appendChild(card);
@@ -312,3 +316,14 @@ function showScreen(id) {
 
   document.getElementById(id).classList.remove("d-none");
 }
+
+// =======================
+// 戻る処理
+// =======================
+function backToStart() {
+  state.questions = [];
+  state.answers = {};
+  state.currentIndex = 0;
+  showScreen("screen-start");
+}
+
