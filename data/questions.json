@@ -676,5 +676,63 @@
       { "label": "C", "answer": "高橋是清" }
     ]
   },
-  { "id": "g1-2022-30", "year": 2022, "questionNumber": 30, "type": "short", "image": "images/g1-2022-30.png", "answer": "スミソニアン体制" }
+  { "id": "g1-2022-30", "year": 2022, "questionNumber": 30, "type": "short", "image": "images/g1-2022-30.png", "answer": "スミソニアン体制" },
+  { "id": "g1-2023-01", "year": 2023, "questionNumber": 1, "type": "choice", "image": "images/g1-2023-01.png", "answer": "4" },
+  { "id": "g1-2023-02", "year": 2023, "questionNumber": 2, "type": "choice", "image": "images/g1-2023-02.png", "answer": "3" },
+  { "id": "g1-2023-03", "year": 2023, "questionNumber": 3, "type": "choice", "image": "images/g1-2023-03.png", "answer": "1" },
+  { "id": "g1-2023-04", "year": 2023, "questionNumber": 4, "type": "choice", "image": "images/g1-2023-04.png", "answer": "4" },
+  { "id": "g1-2023-05", "year": 2023, "questionNumber": 5, "type": "choice", "image": "images/g1-2023-05.png", "answer": "2" },
+  { "id": "g1-2023-06", "year": 2023, "questionNumber": 6, "type": "choice", "image": "images/g1-2023-06.png", "answer": "2" },
+  { "id": "g1-2023-07", "year": 2023, "questionNumber": 7, "type": "choice", "image": "images/g1-2023-07.png", "answer": "4" },
+  { "id": "g1-2023-08", "year": 2023, "questionNumber": 8, "type": "choice", "image": "images/g1-2023-08.png", "answer": "2" },
+  { "id": "g1-2023-09", "year": 2023, "questionNumber": 9, "type": "choice", "image": "images/g1-2023-09.png", "answer": "2" },
+  { "id": "g1-2023-10", "year": 2023, "questionNumber": 10, "type": "choice", "image": "images/g1-2023-10.png", "answer": "2" },
+  { "id": "g1-2023-11", "year": 2023, "questionNumber": 11, "type": "choice", "image": "images/g1-2023-11.png", "answer": "1" },
+  { "id": "g1-2023-12", "year": 2023, "questionNumber": 12, "type": "choice", "image": "images/g1-2023-12.png", "answer": "3" },
+  { "id": "g1-2023-13", "year": 2023, "questionNumber": 13, "type": "choice", "image": "images/g1-2023-13.png", "answer": "2" },
+  { "id": "g1-2023-14", "year": 2023, "questionNumber": 14, "type": "choice", "image": "images/g1-2023-14.png", "answer": "3" },
+  { "id": "g1-2023-15", "year": 2023, "questionNumber": 15, "type": "choice", "image": "images/g1-2023-15.png", "answer": "2" },
+  { "id": "g1-2023-16", "year": 2023, "questionNumber": 16, "type": "choice", "image": "images/g1-2023-16.png", "answer": "3" },
+  { "id": "g1-2023-17", "year": 2023, "questionNumber": 17, "type": "choice", "image": "images/g1-2023-17.png", "answer": "4" },
+  { "id": "g1-2023-18", "year": 2023, "questionNumber": 18, "type": "choice", "image": "images/g1-2023-18.png", "answer": "4" },
+  { "id": "g1-2023-19", "year": 2023, "questionNumber": 19, "type": "choice", "image": "images/g1-2023-19.png", "answer": "4" },
+  { "id": "g1-2023-20", "year": 2023, "questionNumber": 20, "type": "choice", "image": "images/g1-2023-20.png", "answer": "1" },
+  { "id": "g1-2023-21", "year": 2023, "questionNumber": 21, "type": "short", "image": "images/g1-2023-21.png", "answer": "物部尾輿" },
+  { "id": "g1-2023-22", "year": 2023, "questionNumber": 22, "type": "short", "image": "images/g1-2023-22.png", "answer": "斎蔵" },
+  {
+    "id": "g1-2023-23",
+    "year": 2023,
+    "questionNumber": 23,
+    "type": "cloze",
+    "image": "images/g1-2023-23.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]天皇は土地所有権の確認に[B]を必要とする方針を打ち出した。[C]にも規定された、土地の支配が[D]年以上続けば所有権は変更されないとする慣習が無視された。",
+    "blanks": [
+      { "label": "A", "answer": "後醍醐" },
+      { "label": "B", "answer": "綸旨" },
+      { "label": "C", "answer": "御成敗式目" },
+      { "label": "D", "answer": "20" }
+    ]
+  },
+  { "id": "g1-2023-24", "year": 2023, "questionNumber": 24, "type": "short", "image": "images/g1-2023-24.png", "answer": "上杉憲忠" },
+  { "id": "g1-2023-25", "year": 2023, "questionNumber": 25, "type": "short", "image": "images/g1-2023-25.png", "answer": "茶々丸" },
+  {
+    "id": "g1-2023-26",
+    "year": 2023,
+    "questionNumber": 26,
+    "type": "cloze",
+    "image": "images/g1-2023-26.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "寛永10年に[A]以外の日本船の海外渡航を、寛永12年に日本人の[B]と在外日本人の帰国を禁止した。[C]の鎮圧を経て、寛永16年に[D]の来航を禁止した。",
+    "blanks": [
+      { "label": "A", "answer": "奉書船" },
+      { "label": "B", "answer": "海外渡航" },
+      { "label": "C", "answer": "島原の乱" },
+      { "label": "D", "answer": "ポルトガル船" }
+    ]
+  },
+  { "id": "g1-2023-27", "year": 2023, "questionNumber": 27, "type": "short", "image": "images/g1-2023-27.png", "answer": "回答兼刷還使" },
+  { "id": "g1-2023-28", "year": 2023, "questionNumber": 28, "type": "short", "image": "images/g1-2023-28.png", "answer": "雨森芳洲" },
+  { "id": "g1-2023-29", "year": 2023, "questionNumber": 29, "type": "short", "image": "images/g1-2023-29.png", "answer": "カイロ" },
+  { "id": "g1-2023-30", "year": 2023, "questionNumber": 30, "type": "short", "image": "images/g1-2023-30.png", "answer": "石川達三" }
 ]
