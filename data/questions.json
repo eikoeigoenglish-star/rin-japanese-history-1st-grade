@@ -618,5 +618,63 @@
     ]
   },
   { "id": "g1-2021-29", "year": 2021, "questionNumber": 29, "type": "short", "image": "images/g1-2021-29.png", "answer": "憲法問題調査委員会" },
-  { "id": "g1-2021-30", "year": 2021, "questionNumber": 30, "type": "short", "image": "images/g1-2021-30.png", "answer": "有沢広巳" }
+  { "id": "g1-2021-30", "year": 2021, "questionNumber": 30, "type": "short", "image": "images/g1-2021-30.png", "answer": "有沢広巳" },
+  { "id": "g1-2022-01", "year": 2022, "questionNumber": 1, "type": "choice", "image": "images/g1-2022-01.png", "answer": "4" },
+  { "id": "g1-2022-02", "year": 2022, "questionNumber": 2, "type": "choice", "image": "images/g1-2022-02.png", "answer": "3" },
+  { "id": "g1-2022-03", "year": 2022, "questionNumber": 3, "type": "choice", "image": "images/g1-2022-03.png", "answer": "4" },
+  { "id": "g1-2022-04", "year": 2022, "questionNumber": 4, "type": "choice", "image": "images/g1-2022-04.png", "answer": "3" },
+  { "id": "g1-2022-05", "year": 2022, "questionNumber": 5, "type": "choice", "image": "images/g1-2022-05.png", "answer": "3" },
+  { "id": "g1-2022-06", "year": 2022, "questionNumber": 6, "type": "choice", "image": "images/g1-2022-06.png", "answer": "3" },
+  { "id": "g1-2022-07", "year": 2022, "questionNumber": 7, "type": "choice", "image": "images/g1-2022-07.png", "answer": "2" },
+  { "id": "g1-2022-08", "year": 2022, "questionNumber": 8, "type": "choice", "image": "images/g1-2022-08.png", "answer": "4" },
+  { "id": "g1-2022-09", "year": 2022, "questionNumber": 9, "type": "choice", "image": "images/g1-2022-09.png", "answer": "4" },
+  { "id": "g1-2022-10", "year": 2022, "questionNumber": 10, "type": "choice", "image": "images/g1-2022-10.png", "answer": "2" },
+  { "id": "g1-2022-11", "year": 2022, "questionNumber": 11, "type": "choice", "image": "images/g1-2022-11.png", "answer": "2" },
+  { "id": "g1-2022-12", "year": 2022, "questionNumber": 12, "type": "choice", "image": "images/g1-2022-12.png", "answer": "1" },
+  { "id": "g1-2022-13", "year": 2022, "questionNumber": 13, "type": "choice", "image": "images/g1-2022-13.png", "answer": "3" },
+  { "id": "g1-2022-14", "year": 2022, "questionNumber": 14, "type": "choice", "image": "images/g1-2022-14.png", "answer": "1" },
+  { "id": "g1-2022-15", "year": 2022, "questionNumber": 15, "type": "choice", "image": "images/g1-2022-15.png", "answer": "2" },
+  { "id": "g1-2022-16", "year": 2022, "questionNumber": 16, "type": "choice", "image": "images/g1-2022-16.png", "answer": "3" },
+  { "id": "g1-2022-17", "year": 2022, "questionNumber": 17, "type": "choice", "image": "images/g1-2022-17.png", "answer": "1" },
+  { "id": "g1-2022-18", "year": 2022, "questionNumber": 18, "type": "choice", "image": "images/g1-2022-18.png", "answer": "3" },
+  { "id": "g1-2022-19", "year": 2022, "questionNumber": 19, "type": "choice", "image": "images/g1-2022-19.png", "answer": "1" },
+  { "id": "g1-2022-20", "year": 2022, "questionNumber": 20, "type": "choice", "image": "images/g1-2022-20.png", "answer": "3" },
+  { "id": "g1-2022-21", "year": 2022, "questionNumber": 21, "type": "short", "image": "images/g1-2022-21.png", "answer": "白保竿根田原" },
+  { "id": "g1-2022-22", "year": 2022, "questionNumber": 22, "type": "short", "image": "images/g1-2022-22.png", "answer": "捨身飼虎図" },
+  { "id": "g1-2022-23", "year": 2022, "questionNumber": 23, "type": "short", "image": "images/g1-2022-23.png", "answer": "肖柏" },
+  { "id": "g1-2022-24", "year": 2022, "questionNumber": 24, "type": "short", "image": "images/g1-2022-24.png", "answer": "春屋妙葩" },
+  { "id": "g1-2022-25", "year": 2022, "questionNumber": 25, "type": "short", "image": "images/g1-2022-25.png", "answer": "文明論之概略" },
+  {
+    "id": "g1-2022-26",
+    "year": 2022,
+    "questionNumber": 26,
+    "type": "cloze",
+    "image": "images/g1-2022-26.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]は、三河の[B]一揆や甲斐の[C]騒動、大塩の乱などを内憂、[D]号事件などを外患ととらえ、将軍の徳川家慶に「[E]」を提出して、幕政の改革を要求した。",
+    "blanks": [
+      { "label": "A", "answer": "徳川斉昭" },
+      { "label": "B", "answer": "加茂" },
+      { "label": "C", "answer": "郡内" },
+      { "label": "D", "answer": "モリソン" },
+      { "label": "E", "answer": "戊戌封事" }
+    ]
+  },
+  { "id": "g1-2022-27", "year": 2022, "questionNumber": 27, "type": "short", "image": "images/g1-2022-27.png", "answer": "弘道館記述義" },
+  { "id": "g1-2022-28", "year": 2022, "questionNumber": 28, "type": "short", "image": "images/g1-2022-28.png", "answer": "蹇々録" },
+  {
+    "id": "g1-2022-29",
+    "year": 2022,
+    "questionNumber": 29,
+    "type": "cloze",
+    "image": "images/g1-2022-29.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "[A]のもとで金解禁が断行されたが、[B]の影響もあり、日本は昭和恐慌に陥った。[C]のもとで金輸出再禁止の措置がとられ、日本は管理通貨制度に移行した。",
+    "blanks": [
+      { "label": "A", "answer": "井上準之助" },
+      { "label": "B", "answer": "世界恐慌" },
+      { "label": "C", "answer": "高橋是清" }
+    ]
+  },
+  { "id": "g1-2022-30", "year": 2022, "questionNumber": 30, "type": "short", "image": "images/g1-2022-30.png", "answer": "スミソニアン体制" }
 ]
