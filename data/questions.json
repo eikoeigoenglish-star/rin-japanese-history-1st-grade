@@ -178,5 +178,67 @@
       { "label": "B", "answer": "文化住宅" },
       { "label": "C", "answer": "百貨店" }
     ]
-  }
+  },
+  { "id": "g1-2011-01", "year": 2011, "questionNumber": 1, "type": "choice", "image": "images/g1-2011-01.png", "answer": "2" },
+  { "id": "g1-2011-02", "year": 2011, "questionNumber": 2, "type": "choice", "image": "images/g1-2011-02.png", "answer": "3" },
+  { "id": "g1-2011-03", "year": 2011, "questionNumber": 3, "type": "choice", "image": "images/g1-2011-03.png", "answer": "1" },
+  { "id": "g1-2011-04", "year": 2011, "questionNumber": 4, "type": "choice", "image": "images/g1-2011-04.png", "answer": "4" },
+  { "id": "g1-2011-05", "year": 2011, "questionNumber": 5, "type": "choice", "image": "images/g1-2011-05.png", "answer": "1" },
+  { "id": "g1-2011-06", "year": 2011, "questionNumber": 6, "type": "choice", "image": "images/g1-2011-06.png", "answer": "1" },
+  { "id": "g1-2011-07", "year": 2011, "questionNumber": 7, "type": "choice", "image": "images/g1-2011-07.png", "answer": "4" },
+  { "id": "g1-2011-08", "year": 2011, "questionNumber": 8, "type": "choice", "image": "images/g1-2011-08.png", "answer": "4" },
+  { "id": "g1-2011-09", "year": 2011, "questionNumber": 9, "type": "choice", "image": "images/g1-2011-09.png", "answer": "2" },
+  { "id": "g1-2011-10", "year": 2011, "questionNumber": 10, "type": "choice", "image": "images/g1-2011-10.png", "answer": "1" },
+
+  { "id": "g1-2011-11", "year": 2011, "questionNumber": 11, "type": "choice", "image": "images/g1-2011-11.png", "answer": "4" },
+  { "id": "g1-2011-12", "year": 2011, "questionNumber": 12, "type": "choice", "image": "images/g1-2011-12.png", "answer": "3" },
+  { "id": "g1-2011-13", "year": 2011, "questionNumber": 13, "type": "choice", "image": "images/g1-2011-13.png", "answer": "3" },
+  { "id": "g1-2011-14", "year": 2011, "questionNumber": 14, "type": "choice", "image": "images/g1-2011-14.png", "answer": "3" },
+  { "id": "g1-2011-15", "year": 2011, "questionNumber": 15, "type": "choice", "image": "images/g1-2011-15.png", "answer": "2" },
+  { "id": "g1-2011-16", "year": 2011, "questionNumber": 16, "type": "choice", "image": "images/g1-2011-16.png", "answer": "4" },
+  { "id": "g1-2011-17", "year": 2011, "questionNumber": 17, "type": "choice", "image": "images/g1-2011-17.png", "answer": "1" },
+  { "id": "g1-2011-18", "year": 2011, "questionNumber": 18, "type": "choice", "image": "images/g1-2011-18.png", "answer": "4" },
+  { "id": "g1-2011-19", "year": 2011, "questionNumber": 19, "type": "choice", "image": "images/g1-2011-19.png", "answer": "2" },
+  { "id": "g1-2011-20", "year": 2011, "questionNumber": 20, "type": "choice", "image": "images/g1-2011-20.png", "answer": "4" },
+
+  { "id": "g1-2011-21", "year": 2011, "questionNumber": 21, "type": "short", "image": "images/g1-2011-21.png", "answer": "食封" },
+  { "id": "g1-2011-22", "year": 2011, "questionNumber": 22, "type": "short", "image": "images/g1-2011-22.png", "answer": "鬼室福信" },
+  { "id": "g1-2011-23", "year": 2011, "questionNumber": 23, "type": "short", "image": "images/g1-2011-23.png", "answer": "乾坤通宝" },
+
+  {
+    "id": "g1-2011-24",
+    "year": 2011,
+    "questionNumber": 24,
+    "type": "cloze",
+    "image": "images/g1-2011-24.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "貨幣の円滑な流通を確保するために悪銭・良銭の[A]の確定や特定の悪銭の[B]、良銭流通の[C]などの方針が指示された。",
+    "blanks": [
+      { "label": "A", "answer": "混入比率" },
+      { "label": "B", "answer": "使用禁止" },
+      { "label": "C", "answer": "強制" }
+    ]
+  },
+
+  { "id": "g1-2011-25", "year": 2011, "questionNumber": 25, "type": "short", "image": "images/g1-2011-25.png", "answer": "陶晴賢" },
+  { "id": "g1-2011-26", "year": 2011, "questionNumber": 26, "type": "short", "image": "images/g1-2011-26.png", "answer": "女大学" },
+  { "id": "g1-2011-27", "year": 2011, "questionNumber": 27, "type": "short", "image": "images/g1-2011-27.png", "answer": "東慶寺" },
+
+  {
+    "id": "g1-2011-28",
+    "year": 2011,
+    "questionNumber": 28,
+    "type": "cloze",
+    "image": "images/g1-2011-28.png",
+    "instruction": "次の空欄を埋めてください。",
+    "promptText": "欧米諸国の強い[A]を認めると、海外の商品や企業に[B]を奪われ、輸入資金も枯渇するという想定が生じ、[C]来航を思い起こされるような危機感が高まった。",
+    "blanks": [
+      { "label": "A", "answer": "市場解放要求" },
+      { "label": "B", "answer": "日本市場" },
+      { "label": "C", "answer": "ペリー" }
+    ]
+  },
+
+  { "id": "g1-2011-29", "year": 2011, "questionNumber": 29, "type": "short", "image": "images/g1-2011-29.png", "answer": "内需" },
+  { "id": "g1-2011-30", "year": 2011, "questionNumber": 30, "type": "short", "image": "images/g1-2011-30.png", "answer": "西ドイツ" }
 ]
