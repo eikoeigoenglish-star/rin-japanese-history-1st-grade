@@ -119,7 +119,6 @@
 
   { "id": "g1-2009-29", "year": 2009, "questionNumber": 29, "type": "short", "image": "images/g1-2009-29.png", "answer": "時局匡救" },
   { "id": "g1-2009-30", "year": 2009, "questionNumber": 30, "type": "short", "image": "images/g1-2009-30.png", "answer": "理化学研究所" },
-  ,
   { "id": "g1-2010-01", "year": 2010, "questionNumber": 1, "type": "choice", "image": "images/g1-2010-01.png", "answer": "4" },
   { "id": "g1-2010-02", "year": 2010, "questionNumber": 2, "type": "choice", "image": "images/g1-2010-02.png", "answer": "1" },
   { "id": "g1-2010-03", "year": 2010, "questionNumber": 3, "type": "choice", "image": "images/g1-2010-03.png", "answer": "3" },
