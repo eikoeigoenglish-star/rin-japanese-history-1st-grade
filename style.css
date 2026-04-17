@@ -48,7 +48,7 @@ button {
   font-size: 1.2rem;
 }
 
-/* 選択状態 */
+/* 4択の選択状態 */
 .btn-light {
   background-color: #ffffff !important;
   color: #000 !important;
@@ -90,7 +90,8 @@ label {
   font-size: 0.9rem;
 }
 
-.table td, .table th {
+.table td,
+.table th {
   vertical-align: middle;
 }
 
@@ -116,26 +117,10 @@ label {
 /* =========================
    見出し
 ========================= */
-h2, h4, h5 {
+h2,
+h4,
+h5 {
   font-weight: 600;
-}
-
-/* =========================
-   余白調整（スマホ）
-========================= */
-@media (max-width: 768px) {
-  .container {
-    padding-left: 12px;
-    padding-right: 12px;
-  }
-
-  .card-body {
-    padding: 1rem;
-  }
-
-  #question-image {
-    margin-bottom: 12px;
-  }
 }
 
 /* =========================
@@ -164,6 +149,9 @@ h2, h4, h5 {
   text-align: center;
 }
 
+/* =========================
+   採点画面の問題画像
+========================= */
 .result-image-pc {
   max-width: 420px;
   display: block;
@@ -185,7 +173,7 @@ h2, h4, h5 {
 ========================= */
 #result-table td,
 #result-table th {
-  font-size: 1.8rem;   /* 約2倍 */
+  font-size: 1.8rem;
   line-height: 1.4;
 }
 
@@ -208,7 +196,7 @@ h2, h4, h5 {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
-  max-width: 800px;
+  max-width: 1100px;
 }
 
 .option-group input[type="radio"] {
@@ -229,6 +217,7 @@ h2, h4, h5 {
   transition: all 0.2s ease;
   font-weight: 600;
   user-select: none;
+  margin-top: 0; /* 通常label用の余計な余白を消す */
 }
 
 .option-group label:hover {
@@ -236,11 +225,17 @@ h2, h4, h5 {
   border-color: #6b7280;
 }
 
+/* 選択状態：落ち着いた緑 */
 .option-group input[type="radio"]:checked + label {
-  background-color: #0d6efd;
-  border-color: #0d6efd;
+  background-color: #61923a;
+  border-color: #7fbf4d;
   color: #ffffff;
-  box-shadow: 0 0 0 2px rgba(13, 110, 253, 0.25);
+  box-shadow: 0 0 0 2px rgba(97, 146, 58, 0.25);
+}
+
+.option-group input[type="radio"]:checked + label:hover {
+  background-color: #6fa844;
+  border-color: #8dcb59;
 }
 
 .option-group-years label {
@@ -257,7 +252,23 @@ h2, h4, h5 {
   justify-content: flex-start;
 }
 
+/* =========================
+   余白調整（スマホ）
+========================= */
 @media (max-width: 768px) {
+  .container {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .card-body {
+    padding: 1rem;
+  }
+
+  #question-image {
+    margin-bottom: 12px;
+  }
+
   .option-group-years label,
   .option-group-formats label {
     width: 100%;
