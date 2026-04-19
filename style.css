@@ -274,3 +274,19 @@ h5 {
     width: 100%;
   }
 }
+
+/* =========================
+   判定記号（○ / ×）
+========================= */
+
+/* 正解（○） */
+#result-table td:last-child .correct,
+#result-table td:last-child.correct {
+  color: #4caf50;
+}
+
+/* 不正解（×） */
+#result-table td:last-child .incorrect,
+#result-table td:last-child.incorrect {
+  color: #f44336;
+}
