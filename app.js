@@ -52,6 +52,8 @@ function getFormatConfig(format) {
     case "short8": return { choice: 0, short: 8, cloze: 0 };
     case "short4": return { choice: 0, short: 4, cloze: 0 };
     case "essay2": return { choice: 0, short: 0, cloze: 2 };
+    case "choice1": return { choice: 1, short: 0, cloze: 0 };
+    case "short1": return { choice: 0, short: 1, cloze: 0 };
     case "essay1": return { choice: 0, short: 0, cloze: 1 };
   }
 }
