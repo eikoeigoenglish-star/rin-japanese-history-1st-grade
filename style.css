@@ -290,3 +290,13 @@ h5 {
 #result-table td:last-child.incorrect {
   color: #f44336;
 }
+
+/* =========================
+   級切り替えボタン
+========================= */
+
+.switch-btn {
+  font-size: 0.9rem;
+  padding: 6px 12px;
+  border-radius: 999px;
+}
