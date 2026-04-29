@@ -295,8 +295,14 @@ h5 {
    級切り替えボタン
 ========================= */
 
-.switch-btn {
-  font-size: 0.9rem;
-  padding: 6px 12px;
-  border-radius: 999px;
+@media (max-width: 768px) {
+  .header-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+
+  .switch-btn {
+    align-self: flex-end;
+  }
 }
