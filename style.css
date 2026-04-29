@@ -303,6 +303,17 @@ h5 {
   }
 
   .switch-btn {
-    align-self: flex-end;
-  }
+  border: 1px solid #7fbf4d;
+  color: #7fbf4d;
+  background-color: transparent;
+
+  /* ここが効く */
+  box-shadow: 0 0 0 1px rgba(127, 191, 77, 0.2);
+}
+
+   .switch-btn:hover {
+     background-color: #61923a;
+     color: #fff;
+     box-shadow: 0 0 8px rgba(127, 191, 77, 0.4);
+   }
 }
