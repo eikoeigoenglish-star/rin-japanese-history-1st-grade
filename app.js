@@ -494,9 +494,9 @@ function showResult() {
   document.getElementById("score-sub").textContent =
     percent === 100
       ? "全問正解です。見事。"
-      : percent >= 70
-        ? "合格ライン（70%）に到達しています。"
-        : "合格ラインは70%です。復習して再挑戦しましょう。";
+      : percent >= 60
+        ? "合格ライン（60%）に到達しています。"
+        : "合格ラインは60%です。復習して再挑戦しましょう。";
 
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
