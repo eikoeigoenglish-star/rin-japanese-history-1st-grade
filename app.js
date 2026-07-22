@@ -24,7 +24,9 @@ const state = {
 // =======================
 async function init() {
   try {
-    const response = await fetch("data/questions.json");
+    const response = await fetch("data/questions.json?v=2025.1", {
+      cache: "no-store"
+    });
 
     if (!response.ok) {
       throw new Error(`questions.json の読込に失敗しました（HTTP ${response.status}）`);
